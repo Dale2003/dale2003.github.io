@@ -290,6 +290,19 @@
     <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
             
     <script src=".vscode/swiper-bundle.min.js"></script>
+    <script>
+          var swiper = new Swiper(".mySwiper", {
+            effect: "flip",
+            grabCursor: true,
+            pagination: {
+              el: ".swiper-pagination",
+            },
+            navigation: {
+              nextEl: ".swiper-button-next",
+              prevEl: ".swiper-button-prev",
+            },
+          });
+        </script>
 
    
 
@@ -345,19 +358,7 @@
             });
         });
 
-        <script>
-          var swiper = new Swiper(".mySwiper", {
-            effect: "flip",
-            grabCursor: true,
-            pagination: {
-              el: ".swiper-pagination",
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev",
-            },
-          });
-        </script>
+        
             
         // 浏览器搞笑标题
         var OriginTitle = document.title;
