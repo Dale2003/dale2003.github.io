@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="static/css/index.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery.fancybox@2.1.5/source/jquery.fancybox.css">
-    <link rel="stylesheet" href="static/css/swiper-bundle.min.css">
     <script type="text/javascript">
         if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
             alert('朋友，上古浏览器不支持呢~');
@@ -136,24 +135,24 @@
                         <h2>摄影作品</h2>
                             
                             <div class="tool">
-                                <marquee scrollamount="8">
-                                <img src="/p1.jpg" height="480" width="640"/>
-                                <img src="/p2.jpg" height="480" width="640"/>
-                                <img src="/p3.jpg" height="480" width="640"/>
-                                <img src="/p4.jpg" height="480" width="640"/>
-                                <img src="/p5.jpg" height="480" width="360"/>
-                                <img src="/p6.jpg" height="480" width="360"/>
-                                <img src="/p7.jpg" height="480" width="360"/>
-                                <img src="/p8.jpg" height="480" width="360"/>
+                                <marquee scrollamount="8" loop="infinite">
+                                <img src="/p1.jpg" height="240" width="320"/>
+                                <img src="/p2.jpg" height="240" width="320"/>
+                                <img src="/p3.jpg" height="240" width="320"/>
+                                <img src="/p4.jpg" height="240" width="320"/>
+                                <img src="/p5.jpg" height="240" width="180"/>
+                                <img src="/p6.jpg" height="240" width="180"/>
+                                <img src="/p7.jpg" height="240" width="180"/>
+                                <img src="/p8.jpg" height="240" width="180"/>
                                 </marquee>
                             </div>
                             <hr>
                         <h2>音游成就</h2>
                             <div class="tool">
-                                <marquee scrollamount="8">
-                                <img src="/g1.jpg" height="480" width="640"/>
-                                <img src="/g2.jpg" height="480" width="640"/>
-                                <img src="/g3.jpg" height="480" width="640"/>
+                                <marquee scrollamount="8" loop="infinite">
+                                <img src="/g1.jpg" height="240" width="320"/>
+                                <img src="/g2.jpg" height="240" width="320"/>
+                                <img src="/g3.jpg" height="240" width="320"/>
                                 </marquee>
                             <div>
                             <hr>
@@ -196,38 +195,6 @@
     <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
     <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
             
-    <script src=".vscode/swiper-bundle.min.js"></script>
-    <script>
-      var swiper = new Swiper(".mySwiper", {
-        slidesPerView: 1,
-        centeredSlides: false,
-        slidesPerGroupSkip: 1,
-        grabCursor: true,
-        keyboard: {
-          enabled: true,
-        },
-        breakpoints: {
-          769: {
-            slidesPerView: 2,
-            slidesPerGroup: 2,
-          },
-        },
-        scrollbar: {
-          el: ".swiper-scrollbar",
-        },
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
-        },
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
-        },
-      });
-    </script>
-
-   
-
     
     
 
