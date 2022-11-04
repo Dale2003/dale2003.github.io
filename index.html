@@ -19,6 +19,40 @@
             alert('朋友，上古浏览器不支持呢~');
         }
     </script>
+    <style>
+      html,
+      body {
+        position: relative;
+        height: 100%;
+      }
+
+      body {
+        background: #eee;
+        font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        color: #000;
+        margin: 0;
+        padding: 0;
+      }
+
+      .swiper {
+        width: 300px;
+        height: 300px;
+        padding: 50px;
+      }
+
+      .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+      }
+
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+      }
+    </style>
 </head>
 
 <body>
@@ -132,48 +166,36 @@
                             </div>
                         <hr>
                         <h2>摄影作品</h2>
-                            <script>        
-                              var mySwiper = new Swiper ('.swiper', {
-                                direction: 'vertical', // 垂直切换选项
-                                loop: true, // 循环模式选项
-
-                                // 如果需要分页器
-                                pagination: {
-                                  el: '.swiper-pagination',
-                                },
-
-                                // 如果需要前进后退按钮
-                                navigation: {
-                                  nextEl: '.swiper-button-next',
-                                  prevEl: '.swiper-button-prev',
-                                },
-
-                                // 如果需要滚动条
-                                scrollbar: {
-                                  el: '.swiper-scrollbar',
-                                },
-                              })        
-                              </script>
-                            <div class="swiper">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide"><img src="/p1.jpg" height="210" width="280"/></div>
-                                    <div class="swiper-slide"><img src="/p2.jpg" height="210" width="280"/></div>
-                                    <div class="swiper-slide"><img src="/p3.jpg" height="210" width="280"/></div>
-                                    <div class="swiper-slide"><img src="/p4.jpg" height="210" width="280"/></div>
-                                    <div class="swiper-slide"><img src="/p5.jpg" height="200" width="150"/></div>
-                                    <div class="swiper-slide"><img src="/p6.jpg" height="200" width="150"/></div>
-                                    <div class="swiper-slide"><img src="/p7.jpg" height="200" width="150"/></div>
-                                    <div class="swiper-slide"><img src="/p8.jpg" height="200" width="150"/></div>
+                            <div class="swiper mySwiper">
+                              <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                  <img src="/p1.jpg" />
                                 </div>
-                                <!-- 如果需要分页器 -->
-                                <div class="swiper-pagination"></div>
-
-                                <!-- 如果需要导航按钮 -->
-                                <div class="swiper-button-prev"></div>
-                                <div class="swiper-button-next"></div>
-
-                                <!-- 如果需要滚动条 -->
-                                <div class="swiper-scrollbar"></div>
+                                <div class="swiper-slide">
+                                  <img src="/p2.jpg" />
+                                </div>
+                                <div class="swiper-slide">
+                                  <img src="/p3.jpg" />
+                                </div>
+                                <div class="swiper-slide">
+                                  <img src="/p4.jpg" />
+                                </div>
+                                <div class="swiper-slide">
+                                  <img src="/p5.jpg" />
+                                </div>
+                                <div class="swiper-slide">
+                                  <img src="/p6.jpg" />
+                                </div>
+                                  <div class="swiper-slide">
+                                  <img src="/p7.jpg" />
+                                </div>
+                                  <div class="swiper-slide">
+                                  <img src="/p8.jpg" />
+                                </div>
+                              </div>
+                              <div class="swiper-button-next"></div>
+                              <div class="swiper-button-prev"></div>
+                              <div class="swiper-pagination"></div>
                             </div>
                             <div class="tool">
                                 <marquee>
@@ -292,6 +314,20 @@
             });
         });
 
+        <script>
+          var swiper = new Swiper(".mySwiper", {
+            effect: "flip",
+            grabCursor: true,
+            pagination: {
+              el: ".swiper-pagination",
+            },
+            navigation: {
+              nextEl: ".swiper-button-next",
+              prevEl: ".swiper-button-prev",
+            },
+          });
+        </script>
+            
         // 浏览器搞笑标题
         var OriginTitle = document.title;
         var titleTime;
