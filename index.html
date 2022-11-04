@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="static/css/index.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery.fancybox@2.1.5/source/jquery.fancybox.css">
+    <link rel="stylesheet" href="static/css/swiper-bundle.min.css">
     <script type="text/javascript">
         if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
             alert('朋友，上古浏览器不支持呢~');
@@ -131,6 +132,27 @@
                             </div>
                         <hr>
                         <h2>摄影作品</h2>
+                            <div class="swiper">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide"><img src="/p1.jpg" height="210" width="280"/></div>
+                                    <div class="swiper-slide"><img src="/p2.jpg" height="210" width="280"/></div>
+                                    <div class="swiper-slide"><img src="/p3.jpg" height="210" width="280"/></div>
+                                    <div class="swiper-slide"><img src="/p4.jpg" height="210" width="280"/></div>
+                                    <div class="swiper-slide"><img src="/p5.jpg" height="200" width="150"/></div>
+                                    <div class="swiper-slide"><img src="/p6.jpg" height="200" width="150"/></div>
+                                    <div class="swiper-slide"><img src="/p7.jpg" height="200" width="150"/></div>
+                                    <div class="swiper-slide"><img src="/p8.jpg" height="200" width="150"/></div>
+                                </div>
+                                <!-- 如果需要分页器 -->
+                                <div class="swiper-pagination"></div>
+
+                                <!-- 如果需要导航按钮 -->
+                                <div class="swiper-button-prev"></div>
+                                <div class="swiper-button-next"></div>
+
+                                <!-- 如果需要滚动条 -->
+                                <div class="swiper-scrollbar"></div>
+                            </div>
                             <div class="tool">
                                 <marquee>
                                 <img src="/p1.jpg" height="210" width="280"/>
@@ -191,8 +213,31 @@
     <!--   一言、今日诗词   -->
     <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
     <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+            
+    <script src=".vscode/swiper-bundle.min.js"></script>
 
-   
+   <script>        
+  var mySwiper = new Swiper ('.swiper', {
+    direction: 'vertical', // 垂直切换选项
+    loop: true, // 循环模式选项
+    
+    // 如果需要分页器
+    pagination: {
+      el: '.swiper-pagination',
+    },
+    
+    // 如果需要前进后退按钮
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    
+    // 如果需要滚动条
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+  })        
+  </script>
 
     <!--鼠标点击效果-->
     <script src="https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@3.0.8/js/maodian.js"></script>
