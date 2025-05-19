@@ -10,14 +10,14 @@ document.addEventListener('DOMContentLoaded', function() {
   // 初始化技能条动画
   initSkillBars();
   
-  // 初始化图片画廊
-  initGallery();
-  
   // 创建雪花效果
   createSnowflakes();
   
   // 添加滚动动画
   addScrollAnimation();
+  
+  // 初始化Fancybox配置
+  initFancybox();
 });
 
 // 初始化打字效果
@@ -66,23 +66,21 @@ function initSkillBars() {
   handleScroll();
 }
 
-// 初始化图片画廊
-function initGallery() {
-  const galleryItems = document.querySelectorAll('.gallery-item img');
-  
-  galleryItems.forEach(item => {
-    item.addEventListener('click', function() {
-      // 如果存在lightbox库则使用，否则简单地打开图片
-      if (typeof $.fancybox !== 'undefined') {
-        $.fancybox.open({
-          src: this.src,
-          type: 'image'
-        });
-      } else {
-        window.open(this.src, '_blank');
-      }
-    });
-  });
+// 初始化Fancybox配置
+function initFancybox() {
+  if (typeof $.fancybox !== 'undefined') {
+    // 自定义Fancybox配置
+    $.fancybox.defaults.animationEffect = "zoom";
+    $.fancybox.defaults.transitionEffect = "fade";
+    $.fancybox.defaults.buttons = [
+      "zoom",
+      "slideShow",
+      "fullScreen",
+      "download",
+      "thumbs",
+      "close"
+    ];
+  }
 }
 
 // 创建雪花效果
