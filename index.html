@@ -1,275 +1,308 @@
 ﻿﻿<!DOCTYPE html>
-<html lang="zh">
-
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
-    <title>宇航员dale</title>
-    <meta name="description" content="PKU信科电子大二摸鱼人">
-    <meta name="keywords" content="音游，摄影，硬件，排球">
+    <title>宇航员dale | AstronautDale</title>
+    <meta name="description" content="PKU信科电子大二在读，摸鱼摆烂人，社牛音游人一枚，江湖绰号qlb">
+    <meta name="keywords" content="音游，摄影，硬件，排球，PKU，个人主页">
     <meta name="format-detection" content="telephone=no">
-    <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="static/css/index.css">
+    
+    <!-- 网站图标 -->
+    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    
+    <!-- 样式表 -->
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery.fancybox@2.1.5/source/jquery.fancybox.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+    
+    <!-- 检测旧浏览器 -->
     <script type="text/javascript">
-        if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
-            alert('朋友，上古浏览器不支持呢~');
+        if (!!window.ActiveXObject || "ActiveXObject" in window) {
+            alert('朋友，上古浏览器不支持呢~请使用现代浏览器访问');
         }
     </script>
-    
-        
-    
 </head>
 
 <body>
+    <!-- 雪花容器 -->
+    <div class="snowflakes-container"></div>
     
-    <div id="body-wrap">
-        <nav class="not_index_bg" id="nav" style="background-image:url(https://api.zbcode.cn/fj/rand.php)">
-            <div id="page_site-info">
-                <div id="site-title">
-                    <span class="blogtitle"></span>
-                    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-                    <script>
-                        var typed = new Typed(".blogtitle", {
-                            strings: ['阳光下做个孩子，风雨里做个大人', 'Be tough in bad times and be true in good times'],
-                            startDelay: 300,
-                            typeSpeed: 100,
-                            loop: true,
-                            backSpeed: 50,
-                            showCursor: true
-                        });
-                    </script>
-                </div>
+    <!-- 页面主体 -->
+    <div class="page-wrapper">
+        <!-- 头部区域 -->
+        <header class="header" style="background-image: url('https://api.zbcode.cn/fj/rand.php')">
+            <div class="header-content">
+                <h1 class="fade-in">宇航员dale的个人空间</h1>
+                <div class="typed-text"></div>
             </div>
-        </nav>
-        <main id="content-outer">
-            <div class="layout_page" id="content-inner">
-                <div class="aside_content" id="aside_content">
-                    <div class="card-widget card-info">
-                        <div class="card-content">
-                            <div class="card-info-avatar is-center">
-                                <img class="avatar-img"
-                                    src="/avatar.jpg"
-                                    alt="avatar">
-                                <div class="author-info__name">AstronautDale</div>
-                                <div class="author-info__description">PKU信科电子大二在读，摸鱼摆烂人，社牛音游人一枚，江湖绰号qlb</div>
-                            </div>
+        </header>
+        
+        <!-- 主要内容区域 -->
+        <main class="container">
+            <div class="layout">
+                <!-- 侧边栏 -->
+                <aside class="sidebar">
+                    <!-- 个人资料卡片 -->
+                    <div class="card profile-card fade-in">
+                        <div class="card-body">
+                            <img class="avatar" src="assets/images/avatar.jpg" alt="宇航员dale头像">
+                            <h2 class="name">AstronautDale</h2>
+                            <p class="bio">PKU信科电子大二在读，摸鱼摆烂人，社牛音游人一枚，江湖绰号qlb</p>
                         </div>
                     </div>
-
-                    <div class="card-widget card-announcement">
-                        <div class="card-content">
-                            <div class="item-headline">
-                                <i class="fa fa-bullhorn" aria-hidden="true"></i>
-                                <span>一言</span>
-                            </div>
+                    
+                    <!-- 一言卡片 -->
+                    <div class="card fade-in">
+                        <div class="card-header">
+                            <i class="fa fa-bullhorn"></i> 一言
+                        </div>
+                        <div class="card-body">
                             <div id="hitokoto"></div>
                         </div>
                     </div>
-                    <div class="card-widget card-announcement">
-                        <div class="card-content">
-                            <div class="item-headline">
-                                <i class="fa fa-calendar" aria-hidden="true"></i>
-                                <span>今日诗词</span>
-                            </div>
+                    
+                    <!-- 今日诗词卡片 -->
+                    <div class="card fade-in">
+                        <div class="card-header">
+                            <i class="fa fa-calendar"></i> 今日诗词
+                        </div>
+                        <div class="card-body">
                             <div id="jinrishici-sentence"></div>
                         </div>
                     </div>
-
-                    <div class="card-widget card-webinfo">
-                        <div class="card-content">
-                            <div class="item-headline">
-                                <i class="fa fa-line-chart" aria-hidden="true"></i>
-                                <span>站点信息</span>
-                            </div>
-                            <div class="webinfo">
-                                <div class="webinfo-item">
-                                    <div class="webinfo-site-uv-name">本站访客数 :</div>
-                                    <div class="webinfo-site-uv-count" id="busuanzi_value_site_uv"></div>
+                    
+                    <!-- 站点信息卡片 -->
+                    <div class="card fade-in">
+                        <div class="card-header">
+                            <i class="fa fa-line-chart"></i> 站点信息
+                        </div>
+                        <div class="card-body">
+                            <div class="site-stats">
+                                <div class="stat-item">
+                                    <span>本站访客数:</span>
+                                    <span id="busuanzi_value_site_uv"></span>
                                 </div>
-                                <div class="webinfo-item">
-                                    <div class="webinfo-site-name">本站总访问量 :</div>
-                                    <div class="webinfo-site-pv-count" id="busuanzi_value_site_pv"></div>
+                                <div class="stat-item">
+                                    <span>本站总访问量:</span>
+                                    <span id="busuanzi_value_site_pv"></span>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <span>我喜欢的音乐</span>
-                        <meting-js auto="https://y.qq.com/n/ryqq/playlist/2016391989.html"></meting-js>
-                        <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/%E5%8D%8E%E8%AF%AD/pl.u-BNA6Yl3F1z2kedG"></iframe>
-                </div>
-                <article id="page">
-                    <div class="article-container">
-                        
-                        <h2>爱好</h2>
-                        <div class="skillbox">
-                            <div class="skillbar">
-                                <div class="skillbar-title"
-                                    style="background: linear-gradient(to right, #FF0066 0%, #FF00CC 100%); width: 75%">
-                                    <span>音游</span>
-                                </div>
-                                <div class="skill-bar-percent">75%</div>
+                    
+                    <!-- 音乐播放器卡片 -->
+                    <div class="card fade-in">
+                        <div class="card-header">
+                            <i class="fa fa-music"></i> 我喜欢的音乐
+                        </div>
+                        <div class="card-body">
+                            <meting-js auto="https://y.qq.com/n/ryqq/playlist/2016391989.html"></meting-js>
+                            <div class="music-player">
+                                <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:100%;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/%E5%8D%8E%E8%AF%AD/pl.u-BNA6Yl3F1z2kedG"></iframe>
                             </div>
-                            <div class="skillbar">
-                                <div class="skillbar-title"
-                                    style="background: linear-gradient(to right, #9900FF 0%, #CC66FF 100%); width: 70%">
-                                    <span>摄影</span>
+                        </div>
+                    </div>
+                </aside>
+                
+                <!-- 主要内容 -->
+                <section class="main-content">
+                    <div class="card fade-in">
+                        <div class="card-body">
+                            <!-- 爱好部分 -->
+                            <h2><i class="fa fa-star"></i> 爱好</h2>
+                            <div class="skill-bars">
+                                <div class="skill-bar">
+                                    <div class="skill-bar-name">
+                                        <span>音游</span>
+                                        <span>75%</span>
+                                    </div>
+                                    <div class="skill-bar-container">
+                                        <div class="skill-bar-fill" data-width="75%" style="background: linear-gradient(to right, #FF0066 0%, #FF00CC 100%)"></div>
+                                    </div>
                                 </div>
-                                <div class="skill-bar-percent">70%</div>
-                            </div>
-                            <div class="skillbar">
-                                <div class="skillbar-title"
-                                    style="background: linear-gradient(to right, #2196F3 0%, #42A5F5 100%); width: 40%">
-                                    <span>硬件</span>
+                                
+                                <div class="skill-bar">
+                                    <div class="skill-bar-name">
+                                        <span>摄影</span>
+                                        <span>70%</span>
+                                    </div>
+                                    <div class="skill-bar-container">
+                                        <div class="skill-bar-fill" data-width="70%" style="background: linear-gradient(to right, #9900FF 0%, #CC66FF 100%)"></div>
+                                    </div>
                                 </div>
-                                <div class="skill-bar-percent">40%</div>
-                            </div>
-                            <div class="skillbar">
-                                <div class="skillbar-title"
-                                    style="background: linear-gradient(to right, #00BCD4 0%, #80DEEA 100%); width: 50%">
-                                    <span>排球</span>
+                                
+                                <div class="skill-bar">
+                                    <div class="skill-bar-name">
+                                        <span>硬件</span>
+                                        <span>40%</span>
+                                    </div>
+                                    <div class="skill-bar-container">
+                                        <div class="skill-bar-fill" data-width="40%" style="background: linear-gradient(to right, #2196F3 0%, #42A5F5 100%)"></div>
+                                    </div>
                                 </div>
-                                <div class="skill-bar-percent">50%</div>
+                                
+                                <div class="skill-bar">
+                                    <div class="skill-bar-name">
+                                        <span>排球</span>
+                                        <span>50%</span>
+                                    </div>
+                                    <div class="skill-bar-container">
+                                        <div class="skill-bar-fill" data-width="50%" style="background: linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)"></div>
+                                    </div>
+                                </div>
                             </div>
-                        <hr>
-                        <h2>摄影作品</h2>
                             
-                            <div class="tool">
-                                <marquee scrollamount="8" loop="infinite">
-                                <img src="/p1.jpg" height="240" width="320"/>
-                                <img src="/p2.jpg" height="240" width="320"/>
-                                <img src="/p3.jpg" height="240" width="320"/>
-                                <img src="/p4.jpg" height="240" width="320"/>
-                                <img src="/p5.jpg" height="240" width="180"/>
-                                <img src="/p6.jpg" height="240" width="180"/>
-                                <img src="/p7.jpg" height="240" width="180"/>
-                                <img src="/p8.jpg" height="240" width="180"/>
-                                </marquee>
+                            <hr>
+                            
+                            <!-- 摄影作品部分 -->
+                            <h2><i class="fa fa-camera"></i> 摄影作品</h2>
+                            <div class="gallery">
+                                <div class="gallery-item">
+                                    <a href="assets/images/p1.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p1.jpg" alt="摄影作品1">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/p2.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p2.jpg" alt="摄影作品2">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/p3.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p3.jpg" alt="摄影作品3">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/p4.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p4.jpg" alt="摄影作品4">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/p5.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p5.jpg" alt="摄影作品5">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/p6.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p6.jpg" alt="摄影作品6">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/p7.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p7.jpg" alt="摄影作品7">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/p8.jpg" data-fancybox="gallery">
+                                        <img src="assets/images/p8.jpg" alt="摄影作品8">
+                                    </a>
+                                </div>
                             </div>
-                            <iframe src="//player.bilibili.com/player.html?aid=263805785&bvid=BV1ee411w7k9&cid=926012345&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+                            
+                            <div class="video-container fade-in">
+                                <iframe src="//player.bilibili.com/player.html?aid=263805785&bvid=BV1ee411w7k9&cid=926012345&page=1" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+                            </div>
+                            
                             <hr>
-                        <h2>音游成就</h2>
-                            <div class="tool">
-                                <marquee scrollamount="8" loop="infinite">
-                                <img src="/g1.jpg" height="167" width="239"/>
-                                <img src="/g2.jpg" height="167" width="239"/>
-                                <img src="/g3.jpg" height="167" width="239"/>
-                                </marquee>
-                            <div>
-                                <iframe src="//player.bilibili.com/player.html?aid=518124707&bvid=BV1mg411p7PM&cid=902609266&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality="0" danmaku="0"> </iframe>
-                                <iframe src="//player.bilibili.com/player.html?aid=817482505&bvid=BV1pG4y1t7Jn&cid=884613859&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality="0" danmaku="0"> </iframe>
-                                <iframe src="//player.bilibili.com/player.html?aid=860238651&bvid=BV1RG4y1o7zs&cid=893064124&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" high_quality="0" danmaku="0"> </iframe>
+                            
+                            <!-- 音游成就部分 -->
+                            <h2><i class="fa fa-gamepad"></i> 音游成就</h2>
+                            <div class="gallery">
+                                <div class="gallery-item">
+                                    <a href="assets/images/g1.jpg" data-fancybox="games">
+                                        <img src="assets/images/g1.jpg" alt="音游成就1">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/g2.jpg" data-fancybox="games">
+                                        <img src="assets/images/g2.jpg" alt="音游成就2">
+                                    </a>
+                                </div>
+                                <div class="gallery-item">
+                                    <a href="assets/images/g3.jpg" data-fancybox="games">
+                                        <img src="assets/images/g3.jpg" alt="音游成就3">
+                                    </a>
+                                </div>
+                            </div>
+                            
+                            <div class="video-section">
+                                <div class="video-container fade-in">
+                                    <iframe src="//player.bilibili.com/player.html?aid=518124707&bvid=BV1mg411p7PM&cid=902609266&page=1" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+                                </div>
+                                <div class="video-container fade-in">
+                                    <iframe src="//player.bilibili.com/player.html?aid=817482505&bvid=BV1pG4y1t7Jn&cid=884613859&page=1" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+                                </div>
+                                <div class="video-container fade-in">
+                                    <iframe src="//player.bilibili.com/player.html?aid=860238651&bvid=BV1RG4y1o7zs&cid=893064124&page=1" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+                                </div>
+                            </div>
+                            
                             <hr>
-                        <h2>个人主页</h2>
-                        <div class="tool">
-                            <a href="https://space.bilibili.com/508082748?spm_id_from=333.1007.0.0"><img src="/bili.png" height="60" width="60"/></a>
-                            <a href="https://github.com/Dale2003"><img src="/git.jpg" height="60" width="60"/></a>
-                            <a href="https://www.zhihu.com/people/yu-hang-yuan-81-53"><img src="/zhi.png" height="60" width="60"/></a>
-                            <a href="https://m.weibo.cn/profile/6356381624"><img src="/wei.jpg" height="60" width="60"/></a>
-                            <a href="https://www.douyin.com/user/MS4wLjABAAAAwH5lh4xW8RNqwhbfXrOVXjPSA6jt-FkBx8OMqj9rtqc"><img src="/dou.jpg" height="60" width="60"/></a>
-                            <a href="mailto:dale2003@126.com"><img src="/email.jpg" height="60" width="60"/></a><br>
-                        </div>
+                            
+                            <!-- 个人主页链接部分 -->
+                            <h2><i class="fa fa-link"></i> 个人主页</h2>
+                            <div class="social-links">
+                                <a href="https://space.bilibili.com/508082748?spm_id_from=333.1007.0.0" target="_blank" title="哔哩哔哩">
+                                    <img src="assets/images/bili.png" alt="哔哩哔哩">
+                                </a>
+                                <a href="https://github.com/Dale2003" target="_blank" title="GitHub">
+                                    <img src="assets/images/git.jpg" alt="GitHub">
+                                </a>
+                                <a href="https://www.zhihu.com/people/yu-hang-yuan-81-53" target="_blank" title="知乎">
+                                    <img src="assets/images/zhi.png" alt="知乎">
+                                </a>
+                                <a href="https://m.weibo.cn/profile/6356381624" target="_blank" title="微博">
+                                    <img src="assets/images/wei.jpg" alt="微博">
+                                </a>
+                                <a href="https://www.douyin.com/user/MS4wLjABAAAAwH5lh4xW8RNqwhbfXrOVXjPSA6jt-FkBx8OMqj9rtqc" target="_blank" title="抖音">
+                                    <img src="assets/images/dou.jpg" alt="抖音">
+                                </a>
+                                <a href="mailto:dale2003@126.com" title="邮箱">
+                                    <img src="assets/images/email.jpg" alt="邮箱">
+                                </a>
+                            </div>
                         </div>
                     </div>
-                </article>
+                </section>
             </div>
         </main>
-        <footer id="footer">
-            <div id="footer-wrap">
-                <div class="copyright">&copy;2021-2022 BY Dale2003</div>
+        
+        <!-- 页脚 -->
+        <footer class="footer">
+            <div class="container">
+                <div class="copyright">&copy; 2021-2025 BY AstronautDale</div>
+                <div class="powered-by">
+                    <span>Powered by </span>
+                    <i class="fa fa-heart" style="color: #ff0066;"></i>
+                    <span> & Passion</span>
+                </div>
             </div>
         </footer>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/jquery.fancybox@2.1.5/source/jquery.fancybox.js"></script>
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/instant.page@3.0.0/instantpage.js" type="module"></script>
-    <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.2.0/lazysizes.min.js" async></script>
+    
+    <!-- JavaScript 库 -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js" type="module"></script>
+    
     <!-- aplayer、meting -->
-    <!-- require APlayer -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
     <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
-    <!-- require MetingJS -->
     <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
-
-    <!-- nplayer -->
-    <script src="https://unpkg.com/nplayer@latest/dist/index.min.js"></script>
-
-    <!--   一言、今日诗词   -->
+    
+    <!-- 一言、今日诗词 -->
     <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
     <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-            
     
+    <!-- 统计 -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     
-
-    <script type="text/javascript">
-        console.clear();
-        
-
-        (function ($) {
-            $.fn.snow = function (options) {
-                var $flake = $('<div id="snowbox" />').css({ 'position': 'absolute', 'z-index': '9999', 'top': '-50px' }).html('&#10052;'),
-                    documentHeight = $(document).height(),
-                    documentWidth = $(document).width(),
-                    defaults = {
-                        minSize: 10,
-                        maxSize: 20,
-                        newOn: 1000,
-                        flakeColor: "#AFDAEF" /* 此处可以定义雪花颜色，若要白色可以改为#FFFFFF */
-                    },
-                    options = $.extend({}, defaults, options);
-                var interval = setInterval(function () {
-                    var startPositionLeft = Math.random() * documentWidth - 100,
-                        startOpacity = 0.5 + Math.random(),
-                        sizeFlake = options.minSize + Math.random() * options.maxSize,
-                        endPositionTop = documentHeight - 200,
-                        endPositionLeft = startPositionLeft - 500 + Math.random() * 500,
-                        durationFall = documentHeight * 10 + Math.random() * 5000;
-                    $flake.clone().appendTo('body').css({
-                        left: startPositionLeft,
-                        opacity: startOpacity,
-                        'font-size': sizeFlake,
-                        color: options.flakeColor
-                    }).animate({
-                        top: endPositionTop,
-                        left: endPositionLeft,
-                        opacity: 0.2
-                    }, durationFall, 'linear', function () {
-                        $(this).remove()
-                    });
-                }, options.newOn);
-            };
-        })(jQuery);
-        $(function () {
-            $.fn.snow({
-                minSize: 5, /* 定义雪花最小尺寸 */
-                maxSize: 50,/* 定义雪花最大尺寸 */
-                newOn: 800  /* 定义密集程度，数字越小越密集 */
-            });
-        });
-
-        
-            
-        // 浏览器搞笑标题
-        var OriginTitle = document.title;
-        var titleTime;
-        document.addEventListener('visibilitychange', function () {
-            if (document.hidden) {
-                // $('[rel="icon"]').attr('href', "/funny.ico");
-                document.title = '╭(°A°`)╮ 你怎么不看我了呜呜呜';
-                clearTimeout(titleTime);
-            }
-            else {
-                $('[rel="icon"]').attr('href', "/favicon.ico");
-                document.title = '(ฅ>ω<*ฅ) 嘿嘿 ~' + OriginTitle;
-                titleTime = setTimeout(function () {
-                    document.title = OriginTitle;
-                }, 2000);
-            }
-        });
-    </script>
+    <!-- 自定义脚本 -->
+    <script src="assets/js/main.js"></script>
 </body>
-
 </html>
