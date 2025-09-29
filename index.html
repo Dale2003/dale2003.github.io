@@ -137,6 +137,69 @@
                     <div class="card fade-in">
                         <div class="card-body">
                             <!-- 爱好部分 -->
+                                                        <!-- 舞萌资源站部分 -->
+                                                        <h2><i class="fa fa-database"></i> 舞萌资源站</h2>
+                                                        <div class="maimai-resource">
+                                                                <ul>
+                                                                        <li>
+                                                                                <b>定数变化表</b>：<a href="assets/json/dschange.json" download>点击下载 dschange.json</a><br>
+                                                                                <span>结构示例：</span>
+<pre style="background:#f8f8f8;border:1px solid #eee;padding:8px;font-size:13px;overflow-x:auto;">
+{
+    "8": {
+        "id": "8",
+        "name": "True Love Song",
+        "ds": [
+            { "maimai": 4.0, "maimai PLUS": 4.0, ... },
+            ...
+        ]
+    },
+    ...
+}
+</pre>
+                                                                                <span>说明：以歌曲ID为键，记录每首歌在各版本的定数变化。</span>
+                                                                        </li>
+                                                                        <li>
+                                                                                <b>全部乐曲数据表</b>：<a href="assets/json/more_music_data.json" download>点击下载 more_music_data.json</a><br>
+                                                                                <span>结构示例：</span>
+<pre style="background:#f8f8f8;border:1px solid #eee;padding:8px;font-size:13px;overflow-x:auto;">
+[
+    {
+        "id": "8",
+        "title": "True Love Song",
+        "type": "SD",
+        "ds": [5.0, 7.2, ...],
+        "level": ["5", "7", ...],
+        "cids": [1, 1, ...],
+        "charts": [
+            { "notes": [63, 23, ...], "charter": "-" },
+            ...
+        ]
+    },
+    ...
+]
+</pre>
+                                                                                <span>说明：每首歌的详细数据，包括定数、等级、谱师、note数等。</span>
+                                                                        </li>
+                                                                        <li>
+                                                                                <b>曲目别名表</b>：<a href="assets/json/music_alias.json" download>点击下载 music_alias.json</a><br>
+                                                                                <span>结构示例：</span>
+<pre style="background:#f8f8f8;border:1px solid #eee;padding:8px;font-size:13px;overflow-x:auto;">
+[
+    {
+        "Name": "True Love Song",
+        "IsVotable": true,
+        "SongID": 8,
+        "Alias": ["true love song", "会员制餐厅", ...]
+    },
+    ...
+]
+</pre>
+                                                                                <span>说明：每首歌的别名列表，便于搜索。</span>
+                                                                        </li>
+                                                                </ul>
+                                                        </div>
+                                                        <hr>
                             <h2><i class="fa fa-star"></i> 爱好</h2>
                             <div class="skill-bars">
                                 <div class="skill-bar">
