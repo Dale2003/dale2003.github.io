@@ -342,7 +342,7 @@
         "basic_info": {
             "title": "レーザービーム",
             "artist": "Perfume",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "135",
             "release_date": "",
             "from": "未知",
@@ -412,7 +412,7 @@
         "basic_info": {
             "title": "ジェットコースターラブ",
             "artist": "KARA",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "127",
             "release_date": "",
             "from": "未知",
@@ -482,7 +482,7 @@
         "basic_info": {
             "title": "チョコレイト・ディスコ",
             "artist": "Perfume",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "135",
             "release_date": "",
             "from": "未知",
@@ -622,7 +622,7 @@
         "basic_info": {
             "title": "Share The World",
             "artist": "東方神起 「ONE PIECE」",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "120",
             "release_date": "",
             "from": "未知",
@@ -844,7 +844,7 @@
         "basic_info": {
             "title": "Born This Way",
             "artist": "Lady Gaga",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "124",
             "release_date": "",
             "from": "未知",
@@ -1641,7 +1641,7 @@
         "basic_info": {
             "title": "シークレットシークレット",
             "artist": "Perfume",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "132",
             "release_date": "",
             "from": "未知",
@@ -1813,6 +1813,15 @@
         "charts": [
             {
                 "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
                     177,
                     10,
                     7,
@@ -1824,7 +1833,7 @@
         "basic_info": {
             "title": "Shy Guy",
             "artist": "Diana King",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "94",
             "release_date": "",
             "from": "未知",
@@ -1964,7 +1973,7 @@
         "basic_info": {
             "title": "One More Time",
             "artist": "Daft Punk 「cover」",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "123",
             "release_date": "",
             "from": "未知",
@@ -2676,7 +2685,7 @@
         "basic_info": {
             "title": "残酷な天使のテーゼ オリジナル Ver.",
             "artist": "高橋洋子",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "128",
             "release_date": "",
             "from": "未知",
@@ -4102,7 +4111,7 @@
         "basic_info": {
             "title": "ガラスの向こう",
             "artist": "興野亮平",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "165",
             "release_date": "",
             "from": "未知",
@@ -5232,6 +5241,24 @@
         "charts": [
             {
                 "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
                     241,
                     33,
                     18,
@@ -5252,7 +5279,7 @@
         "basic_info": {
             "title": "ブラック★ロックシューター",
             "artist": "supercell",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "165",
             "release_date": "",
             "from": "未知",
@@ -5284,6 +5311,24 @@
         "charts": [
             {
                 "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
                     177,
                     50,
                     18,
@@ -5295,7 +5340,7 @@
         "basic_info": {
             "title": "トゥインクル",
             "artist": "Junky",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "130",
             "release_date": "",
             "from": "未知",
@@ -5824,15 +5869,18 @@
             4.0,
             8.7,
             13.0,
-            13.4
+            13.4,
+            14.4
         ],
         "level": [
             "4",
             "8+",
             "13",
-            "13"
+            "13",
+            "14"
         ],
         "cids": [
+            1,
             1,
             1,
             1,
@@ -5874,6 +5922,15 @@
                     14
                 ],
                 "charter": "譜面-100号"
+            },
+            {
+                "notes": [
+                    512,
+                    48,
+                    54,
+                    52
+                ],
+                "charter": "Safata.Hz"
             }
         ],
         "basic_info": {
@@ -6599,76 +6656,6 @@
         }
     },
     {
-        "id": "125",
-        "title": "千本桜",
-        "type": "SD",
-        "ds": [
-            6.0,
-            8.2,
-            10.7,
-            13.4
-        ],
-        "level": [
-            "6",
-            "8",
-            "10+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    144,
-                    6,
-                    5,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    231,
-                    34,
-                    1,
-                    11
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    235,
-                    64,
-                    17,
-                    20
-                ],
-                "charter": "ニャイン"
-            },
-            {
-                "notes": [
-                    556,
-                    27,
-                    45,
-                    9
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "千本桜",
-            "artist": "黒うさP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "154",
-            "release_date": "",
-            "from": "maimai PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "126",
         "title": "つけまつける",
         "type": "SD",
@@ -6941,7 +6928,7 @@
         "basic_info": {
             "title": "太陽曰く燃えよカオス",
             "artist": "後ろから這いより隊G",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "143",
             "release_date": "",
             "from": "未知",
@@ -8997,7 +8984,7 @@
         "basic_info": {
             "title": "Z女戦争",
             "artist": "ももいろクローバーZ",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "160",
             "release_date": "",
             "from": "未知",
@@ -9767,7 +9754,7 @@
         "basic_info": {
             "title": "マジLOVE1000％",
             "artist": "「うたの☆プリンスさまっ♪」",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "129",
             "release_date": "",
             "from": "未知",
@@ -9977,7 +9964,7 @@
         "basic_info": {
             "title": "ジョジョ ～その血の運命～",
             "artist": "富永TOMMY弘明「ジョジョの奇妙な冒険」",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "146",
             "release_date": "",
             "from": "未知",
@@ -10615,76 +10602,6 @@
         }
     },
     {
-        "id": "192",
-        "title": "SPiCa",
-        "type": "SD",
-        "ds": [
-            3.0,
-            7.2,
-            9.9,
-            12.8
-        ],
-        "level": [
-            "3",
-            "7",
-            "9+",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    147,
-                    6,
-                    7,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    253,
-                    20,
-                    18,
-                    11
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    233,
-                    52,
-                    52,
-                    7
-                ],
-                "charter": "ロシェ@ペンギン"
-            },
-            {
-                "notes": [
-                    320,
-                    10,
-                    129,
-                    14
-                ],
-                "charter": "mai-Star"
-            }
-        ],
-        "basic_info": {
-            "title": "SPiCa",
-            "artist": "とくP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "162",
-            "release_date": "",
-            "from": "maimai GreeN PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "193",
         "title": "セツナトリップ",
         "type": "SD",
@@ -10860,7 +10777,7 @@
         "basic_info": {
             "title": "如月アテンション",
             "artist": "じん",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "200",
             "release_date": "",
             "from": "未知",
@@ -12351,7 +12268,7 @@
         "basic_info": {
             "title": "チルドレンレコード",
             "artist": "じん",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "210",
             "release_date": "",
             "from": "未知",
@@ -14629,7 +14546,7 @@
         "basic_info": {
             "title": "ODDS＆ENDS",
             "artist": "ryo(supercell)",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "192",
             "release_date": "",
             "from": "未知",
@@ -15727,7 +15644,7 @@
         "basic_info": {
             "title": "スリル",
             "artist": "布袋寅泰[cover]",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "175",
             "release_date": "",
             "from": "未知",
@@ -15941,76 +15858,6 @@
             "bpm": "150",
             "release_date": "",
             "from": "maimai GreeN PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "280",
-        "title": "炉心融解",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.0,
-            11.4,
-            13.2
-        ],
-        "level": [
-            "4",
-            "7",
-            "11",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    113,
-                    14,
-                    5,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    183,
-                    8,
-                    36,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    243,
-                    25,
-                    49,
-                    7
-                ],
-                "charter": "Jack"
-            },
-            {
-                "notes": [
-                    278,
-                    44,
-                    75,
-                    19
-                ],
-                "charter": "玉子豆腐"
-            }
-        ],
-        "basic_info": {
-            "title": "炉心融解",
-            "artist": "iroha(sasaki)／kuma(alfred)",
-            "genre": "niconico & VOCALOID",
-            "bpm": "165",
-            "release_date": "",
-            "from": "maimai MURASAKi",
             "is_new": false
         }
     },
@@ -16303,76 +16150,6 @@
             "bpm": "175",
             "release_date": "",
             "from": "maimai MURASAKi",
-            "is_new": false
-        }
-    },
-    {
-        "id": "284",
-        "title": "むかしむかしのきょうのぼく",
-        "type": "SD",
-        "ds": [
-            3.0,
-            7.2,
-            10.1,
-            12.5
-        ],
-        "level": [
-            "3",
-            "7",
-            "10",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    142,
-                    12,
-                    4,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    230,
-                    9,
-                    8,
-                    9
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    379,
-                    30,
-                    27,
-                    7
-                ],
-                "charter": "mai-Star"
-            },
-            {
-                "notes": [
-                    394,
-                    39,
-                    75,
-                    8
-                ],
-                "charter": "某S氏"
-            }
-        ],
-        "basic_info": {
-            "title": "むかしむかしのきょうのぼく",
-            "artist": "DECO*27",
-            "genre": "niconico & VOCALOID",
-            "bpm": "130",
-            "release_date": "",
-            "from": "maimai GreeN PLUS",
             "is_new": false
         }
     },
@@ -17247,76 +17024,6 @@
             "artist": "Neru",
             "genre": "niconico & VOCALOID",
             "bpm": "162",
-            "release_date": "",
-            "from": "maimai ORANGE PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "300",
-        "title": "Sweet Devil",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.4,
-            11.5,
-            12.7
-        ],
-        "level": [
-            "4",
-            "7",
-            "11",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    156,
-                    2,
-                    2,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    241,
-                    12,
-                    9,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    305,
-                    37,
-                    37,
-                    12
-                ],
-                "charter": "mai-Star"
-            },
-            {
-                "notes": [
-                    434,
-                    59,
-                    63,
-                    43
-                ],
-                "charter": "Techno Kitchen"
-            }
-        ],
-        "basic_info": {
-            "title": "Sweet Devil",
-            "artist": "八王子P",
-            "genre": "niconico & VOCALOID",
-            "bpm": "132",
             "release_date": "",
             "from": "maimai ORANGE PLUS",
             "is_new": false
@@ -19401,76 +19108,6 @@
         }
     },
     {
-        "id": "332",
-        "title": "アゲアゲアゲイン",
-        "type": "SD",
-        "ds": [
-            4.0,
-            8.0,
-            10.3,
-            12.5
-        ],
-        "level": [
-            "4",
-            "8",
-            "10",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    94,
-                    8,
-                    4,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    213,
-                    24,
-                    3,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    209,
-                    22,
-                    21,
-                    8
-                ],
-                "charter": "某S氏"
-            },
-            {
-                "notes": [
-                    299,
-                    19,
-                    73,
-                    14
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "アゲアゲアゲイン",
-            "artist": "Mitchie M",
-            "genre": "niconico & VOCALOID",
-            "bpm": "175",
-            "release_date": "",
-            "from": "maimai GreeN PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "333",
         "title": "GO MY WAY!!",
         "type": "SD",
@@ -20025,76 +19662,6 @@
             "artist": "姫野湖鳥(CV 田村ゆかり)「弱虫ペダル」",
             "genre": "流行&动漫",
             "bpm": "178",
-            "release_date": "",
-            "from": "maimai GreeN PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "341",
-        "title": "二息歩行",
-        "type": "SD",
-        "ds": [
-            3.0,
-            7.6,
-            10.1,
-            13.3
-        ],
-        "level": [
-            "3",
-            "7+",
-            "10",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    103,
-                    15,
-                    4,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    227,
-                    13,
-                    17,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    332,
-                    5,
-                    48,
-                    15
-                ],
-                "charter": "mai-Star"
-            },
-            {
-                "notes": [
-                    402,
-                    40,
-                    92,
-                    8
-                ],
-                "charter": "ロシェ@ペンギン"
-            }
-        ],
-        "basic_info": {
-            "title": "二息歩行",
-            "artist": "DECO*27",
-            "genre": "niconico & VOCALOID",
-            "bpm": "180",
             "release_date": "",
             "from": "maimai GreeN PLUS",
             "is_new": false
@@ -20793,7 +20360,7 @@
         "basic_info": {
             "title": "タイミング",
             "artist": "ブラックビスケッツ",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "125",
             "release_date": "",
             "from": "未知",
@@ -24151,146 +23718,6 @@
         }
     },
     {
-        "id": "407",
-        "title": "LOL -lots of laugh-",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.0,
-            10.6,
-            12.7
-        ],
-        "level": [
-            "4",
-            "7",
-            "10+",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    178,
-                    6,
-                    6,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    304,
-                    10,
-                    16,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    318,
-                    53,
-                    67,
-                    5
-                ],
-                "charter": "Jack"
-            },
-            {
-                "notes": [
-                    428,
-                    24,
-                    130,
-                    7
-                ],
-                "charter": "rioN"
-            }
-        ],
-        "basic_info": {
-            "title": "LOL -lots of laugh-",
-            "artist": "KeN/エンドケイプ",
-            "genre": "niconico & VOCALOID",
-            "bpm": "138",
-            "release_date": "",
-            "from": "maimai PiNK",
-            "is_new": false
-        }
-    },
-    {
-        "id": "408",
-        "title": "クローバー♣クラブ",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.0,
-            9.7,
-            13.3
-        ],
-        "level": [
-            "4",
-            "7",
-            "9+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    123,
-                    22,
-                    7,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    291,
-                    5,
-                    23,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    352,
-                    31,
-                    39,
-                    7
-                ],
-                "charter": "Jack"
-            },
-            {
-                "notes": [
-                    380,
-                    23,
-                    146,
-                    20
-                ],
-                "charter": "ロシェ@ペンギン"
-            }
-        ],
-        "basic_info": {
-            "title": "クローバー♣クラブ",
-            "artist": "ゆうゆ",
-            "genre": "niconico & VOCALOID",
-            "bpm": "150",
-            "release_date": "",
-            "from": "maimai ORANGE PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "408",
         "title": "クローバー♣クラブ",
         "type": "SD",
@@ -24425,146 +23852,6 @@
             "artist": "DECO*27",
             "genre": "niconico & VOCALOID",
             "bpm": "134",
-            "release_date": "",
-            "from": "maimai ORANGE PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "409",
-        "title": "妄想税",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.3,
-            10.7,
-            12.0
-        ],
-        "level": [
-            "5",
-            "7",
-            "10+",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    174,
-                    11,
-                    2,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    258,
-                    21,
-                    13,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    399,
-                    51,
-                    12,
-                    14
-                ],
-                "charter": "rioN"
-            },
-            {
-                "notes": [
-                    402,
-                    49,
-                    63,
-                    13
-                ],
-                "charter": "mai-Star"
-            }
-        ],
-        "basic_info": {
-            "title": "妄想税",
-            "artist": "DECO*27",
-            "genre": "niconico & VOCALOID",
-            "bpm": "134",
-            "release_date": "",
-            "from": "maimai ORANGE PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "410",
-        "title": "どういうことなの！？",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.0,
-            11.3,
-            13.4
-        ],
-        "level": [
-            "5",
-            "8",
-            "11",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    178,
-                    6,
-                    1,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    231,
-                    45,
-                    19,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    417,
-                    24,
-                    39,
-                    9
-                ],
-                "charter": "rioN"
-            },
-            {
-                "notes": [
-                    452,
-                    65,
-                    69,
-                    8
-                ],
-                "charter": "ロシェ@ペンギン"
-            }
-        ],
-        "basic_info": {
-            "title": "どういうことなの！？",
-            "artist": "くちばしP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "175",
             "release_date": "",
             "from": "maimai ORANGE PLUS",
             "is_new": false
@@ -24995,7 +24282,7 @@
         "basic_info": {
             "title": "MOON PRIDE",
             "artist": "ももいろクローバーZ",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "173",
             "release_date": "",
             "from": "未知",
@@ -26535,7 +25822,7 @@
         "basic_info": {
             "title": "Pursuing My True Self",
             "artist": "目黒 将司",
-            "genre": "バラエティ",
+            "genre": "其他游戏",
             "bpm": "119",
             "release_date": "",
             "from": "maimai ORANGE PLUS",
@@ -26605,7 +25892,7 @@
         "basic_info": {
             "title": "Signs Of Love (“Never More” ver.)",
             "artist": "目黒 将司",
-            "genre": "バラエティ",
+            "genre": "其他游戏",
             "bpm": "109",
             "release_date": "",
             "from": "maimai ORANGE PLUS",
@@ -26675,7 +25962,7 @@
         "basic_info": {
             "title": "specialist (“Never More” ver.)",
             "artist": "目黒 将司",
-            "genre": "バラエティ",
+            "genre": "其他游戏",
             "bpm": "128",
             "release_date": "",
             "from": "maimai ORANGE PLUS",
@@ -26745,7 +26032,7 @@
         "basic_info": {
             "title": "Time To Make History (AKIRA YAMAOKA Remix)",
             "artist": "目黒 将司 Remixed by 山岡 晃",
-            "genre": "バラエティ",
+            "genre": "其他游戏",
             "bpm": "190",
             "release_date": "",
             "from": "maimai ORANGE PLUS",
@@ -26795,6 +26082,15 @@
             },
             {
                 "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
                     574,
                     65,
                     68,
@@ -26806,7 +26102,7 @@
         "basic_info": {
             "title": "#maimaiにシャープの洗濯機を入れてみる",
             "artist": "Hiro feat.しゃべる洗濯機ES-Z200",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "205",
             "release_date": "",
             "from": "未知",
@@ -27094,76 +26390,6 @@
         }
     },
     {
-        "id": "449",
-        "title": "すろぉもぉしょん",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.3,
-            9.7,
-            12.7
-        ],
-        "level": [
-            "4",
-            "7",
-            "9+",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    143,
-                    19,
-                    12,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    325,
-                    12,
-                    19,
-                    7
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    402,
-                    35,
-                    22,
-                    14
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    689,
-                    8,
-                    62,
-                    29
-                ],
-                "charter": "ぴちネコ"
-            }
-        ],
-        "basic_info": {
-            "title": "すろぉもぉしょん",
-            "artist": "ピノキオピー",
-            "genre": "niconico & VOCALOID",
-            "bpm": "160",
-            "release_date": "",
-            "from": "maimai PiNK",
-            "is_new": false
-        }
-    },
-    {
         "id": "450",
         "title": "絵の上手かった友達",
         "type": "SD",
@@ -27357,7 +26583,7 @@
         "basic_info": {
             "title": "BANG!BANG!BANG!",
             "artist": "Silent Siren",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "188",
             "release_date": "",
             "from": "未知",
@@ -29925,7 +29151,7 @@
         "basic_info": {
             "title": "タカハせ！名人マン ビートまりお Ver",
             "artist": "ビートまりお + ARM feat. 高橋名人",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "124",
             "release_date": "",
             "from": "未知",
@@ -31357,76 +30583,6 @@
         }
     },
     {
-        "id": "509",
-        "title": "Just Be Friends",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.8,
-            10.7,
-            12.8
-        ],
-        "level": [
-            "4",
-            "7+",
-            "10+",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    183,
-                    6,
-                    6,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    317,
-                    42,
-                    18,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    342,
-                    50,
-                    60,
-                    2
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    652,
-                    45,
-                    107,
-                    8
-                ],
-                "charter": "Revo@LC"
-            }
-        ],
-        "basic_info": {
-            "title": "Just Be Friends",
-            "artist": "Dixie Flatline",
-            "genre": "niconico & VOCALOID",
-            "bpm": "128",
-            "release_date": "",
-            "from": "maimai MURASAKi",
-            "is_new": false
-        }
-    },
-    {
         "id": "510",
         "title": "ヒビカセ",
         "type": "SD",
@@ -31859,146 +31015,6 @@
         }
     },
     {
-        "id": "515",
-        "title": "クノイチでも恋がしたい",
-        "type": "SD",
-        "ds": [
-            6.0,
-            7.9,
-            11.0,
-            13.4
-        ],
-        "level": [
-            "6",
-            "7+",
-            "11",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    225,
-                    21,
-                    10,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    331,
-                    10,
-                    15,
-                    7
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    536,
-                    32,
-                    34,
-                    24
-                ],
-                "charter": "如月 ゆかり"
-            },
-            {
-                "notes": [
-                    678,
-                    9,
-                    148,
-                    20
-                ],
-                "charter": "しろいろ"
-            }
-        ],
-        "basic_info": {
-            "title": "クノイチでも恋がしたい",
-            "artist": "みきとP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "185",
-            "release_date": "",
-            "from": "maimai PiNK PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "516",
-        "title": "ココロ",
-        "type": "SD",
-        "ds": [
-            3.0,
-            7.3,
-            9.9,
-            12.5
-        ],
-        "level": [
-            "3",
-            "7",
-            "9+",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    178,
-                    15,
-                    5,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    264,
-                    38,
-                    19,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    295,
-                    58,
-                    58,
-                    5
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    366,
-                    48,
-                    142,
-                    10
-                ],
-                "charter": "rioN"
-            }
-        ],
-        "basic_info": {
-            "title": "ココロ",
-            "artist": "トラボルタ",
-            "genre": "niconico & VOCALOID",
-            "bpm": "140",
-            "release_date": "",
-            "from": "maimai MURASAKi",
-            "is_new": false
-        }
-    },
-    {
         "id": "516",
         "title": "ココロ",
         "type": "SD",
@@ -32205,76 +31221,6 @@
             "bpm": "160",
             "release_date": "",
             "from": "maimai PiNK PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "519",
-        "title": "ゆっくりしていってね！！！",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.3,
-            11.7,
-            13.6
-        ],
-        "level": [
-            "5",
-            "8",
-            "11+",
-            "13+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    160,
-                    16,
-                    4,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    358,
-                    28,
-                    19,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    437,
-                    105,
-                    30,
-                    8
-                ],
-                "charter": "玉子豆腐"
-            },
-            {
-                "notes": [
-                    675,
-                    22,
-                    80,
-                    20
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "ゆっくりしていってね！！！",
-            "artist": "今日犬",
-            "genre": "niconico & VOCALOID",
-            "bpm": "221",
-            "release_date": "",
-            "from": "maimai MURASAKi",
             "is_new": false
         }
     },
@@ -32629,76 +31575,6 @@
         }
     },
     {
-        "id": "523",
-        "title": "しんでしまうとはなさけない！",
-        "type": "SD",
-        "ds": [
-            6.0,
-            7.8,
-            10.1,
-            12.9
-        ],
-        "level": [
-            "6",
-            "7+",
-            "10",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    230,
-                    4,
-                    4,
-                    9
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    311,
-                    12,
-                    13,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    416,
-                    33,
-                    51,
-                    26
-                ],
-                "charter": "しろいろ"
-            },
-            {
-                "notes": [
-                    588,
-                    68,
-                    70,
-                    28
-                ],
-                "charter": "rioN"
-            }
-        ],
-        "basic_info": {
-            "title": "しんでしまうとはなさけない！",
-            "artist": "ワンダフル☆オポチュニティ！",
-            "genre": "niconico & VOCALOID",
-            "bpm": "174",
-            "release_date": "",
-            "from": "maimai PiNK PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "524",
         "title": "Hand in Hand",
         "type": "SD",
@@ -32765,88 +31641,6 @@
             "bpm": "128",
             "release_date": "",
             "from": "maimai PiNK PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "525",
-        "title": "ブリキノダンス",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.8,
-            10.9,
-            12.5,
-            13.4
-        ],
-        "level": [
-            "5",
-            "7+",
-            "10+",
-            "12",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    202,
-                    12,
-                    8,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    418,
-                    25,
-                    6,
-                    11
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    480,
-                    53,
-                    22,
-                    20
-                ],
-                "charter": "サファ太"
-            },
-            {
-                "notes": [
-                    625,
-                    5,
-                    116,
-                    6
-                ],
-                "charter": "緑風 犬三郎"
-            },
-            {
-                "notes": [
-                    763,
-                    32,
-                    93,
-                    12
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "ブリキノダンス",
-            "artist": "日向電工",
-            "genre": "niconico & VOCALOID",
-            "bpm": "172",
-            "release_date": "",
-            "from": "maimai MiLK PLUS",
             "is_new": false
         }
     },
@@ -34337,7 +33131,7 @@
         "basic_info": {
             "title": "G線上のアリア",
             "artist": "クラシックアレンジ",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "123",
             "release_date": "",
             "from": "未知",
@@ -34617,7 +33411,7 @@
         "basic_info": {
             "title": "Pathetique",
             "artist": "クラシックアレンジ",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "123",
             "release_date": "",
             "from": "未知",
@@ -34979,7 +33773,7 @@
         "basic_info": {
             "title": "言ノ葉カルマ ボーカロイド Ver.",
             "artist": "れるりりfeat.初音ミク/GUMI",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "150",
             "release_date": "",
             "from": "未知",
@@ -35331,76 +34125,6 @@
             "artist": "un:c・ろん×じーざすP",
             "genre": "舞萌",
             "bpm": "186",
-            "release_date": "",
-            "from": "maimai MURASAKi",
-            "is_new": false
-        }
-    },
-    {
-        "id": "560",
-        "title": "回レ！雪月花",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.0,
-            10.7,
-            13.3
-        ],
-        "level": [
-            "5",
-            "8",
-            "10+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    151,
-                    6,
-                    8,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    232,
-                    20,
-                    7,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    316,
-                    24,
-                    34,
-                    12
-                ],
-                "charter": "某S氏"
-            },
-            {
-                "notes": [
-                    555,
-                    30,
-                    41,
-                    39
-                ],
-                "charter": "rioN"
-            }
-        ],
-        "basic_info": {
-            "title": "回レ！雪月花",
-            "artist": "歌組雪月花 夜々(原田ひとみ)/いろり(茅野愛衣)/小紫(小倉唯)「機巧少女は傷つかない」",
-            "genre": "流行&动漫",
-            "bpm": "160",
             "release_date": "",
             "from": "maimai MURASAKi",
             "is_new": false
@@ -38639,76 +37363,6 @@
         }
     },
     {
-        "id": "620",
-        "title": "東京レトロ",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.0,
-            9.8,
-            11.6
-        ],
-        "level": [
-            "4",
-            "7",
-            "9+",
-            "11+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    127,
-                    6,
-                    6,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    190,
-                    15,
-                    15,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    173,
-                    53,
-                    45,
-                    9
-                ],
-                "charter": "玉子豆腐"
-            },
-            {
-                "notes": [
-                    331,
-                    38,
-                    90,
-                    11
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "東京レトロ",
-            "artist": "すこっぷ",
-            "genre": "niconico & VOCALOID",
-            "bpm": "126",
-            "release_date": "",
-            "from": "maimai MURASAKi PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "621",
         "title": "ARROW",
         "type": "SD",
@@ -40961,76 +39615,6 @@
         }
     },
     {
-        "id": "659",
-        "title": "ギリギリ最強あいまいみー！",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.0,
-            10.9,
-            13.7
-        ],
-        "level": [
-            "5",
-            "8",
-            "10+",
-            "13+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    166,
-                    14,
-                    5,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    249,
-                    28,
-                    10,
-                    26
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    297,
-                    47,
-                    44,
-                    26
-                ],
-                "charter": "玉子豆腐"
-            },
-            {
-                "notes": [
-                    531,
-                    49,
-                    127,
-                    48
-                ],
-                "charter": "Revo@LC"
-            }
-        ],
-        "basic_info": {
-            "title": "ギリギリ最強あいまいみー！",
-            "artist": "愛(C.V.大坪由佳) 麻衣(C.V.内田彩) ミイ(C.V.内田真礼)「あいまいみー」",
-            "genre": "流行&动漫",
-            "bpm": "185",
-            "release_date": "",
-            "from": "maimai MiLK",
-            "is_new": false
-        }
-    },
-    {
         "id": "661",
         "title": "CALL HEAVEN!!",
         "type": "SD",
@@ -41093,7 +39677,7 @@
         "basic_info": {
             "title": "CALL HEAVEN!!",
             "artist": "夢色キャスト",
-            "genre": "バラエティ",
+            "genre": "其他游戏",
             "bpm": "123",
             "release_date": "",
             "from": "maimai MURASAKi PLUS",
@@ -41165,76 +39749,6 @@
             "artist": "夢色キャスト",
             "genre": "其他游戏",
             "bpm": "140",
-            "release_date": "",
-            "from": "maimai MURASAKi PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "663",
-        "title": "ちがう!!!",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.0,
-            10.9,
-            13.4
-        ],
-        "level": [
-            "5",
-            "8",
-            "10+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    233,
-                    8,
-                    5,
-                    9
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    286,
-                    72,
-                    7,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    431,
-                    27,
-                    31,
-                    26
-                ],
-                "charter": "玉子豆腐"
-            },
-            {
-                "notes": [
-                    553,
-                    16,
-                    151,
-                    70
-                ],
-                "charter": "LabiLabi"
-            }
-        ],
-        "basic_info": {
-            "title": "ちがう!!!",
-            "artist": "カルロス袴田(サイゼP)",
-            "genre": "niconico & VOCALOID",
-            "bpm": "181",
             "release_date": "",
             "from": "maimai MURASAKi PLUS",
             "is_new": false
@@ -41517,88 +40031,6 @@
             "bpm": "145",
             "release_date": "",
             "from": "maimai MURASAKi PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "668",
-        "title": "ようこそジャパリパークへ",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.6,
-            9.9,
-            12.5,
-            12.9
-        ],
-        "level": [
-            "5",
-            "7+",
-            "9+",
-            "12",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    154,
-                    6,
-                    4,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    229,
-                    24,
-                    13,
-                    16
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    284,
-                    33,
-                    47,
-                    27
-                ],
-                "charter": "ロシェ@ペンギン"
-            },
-            {
-                "notes": [
-                    371,
-                    21,
-                    79,
-                    41
-                ],
-                "charter": "某S氏"
-            },
-            {
-                "notes": [
-                    342,
-                    24,
-                    109,
-                    30
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "ようこそジャパリパークへ",
-            "artist": "どうぶつビスケッツ×PPP「けものフレンズ」",
-            "genre": "流行&动漫",
-            "bpm": "170",
-            "release_date": "",
-            "from": "maimai MiLK",
             "is_new": false
         }
     },
@@ -42105,76 +40537,6 @@
         }
     },
     {
-        "id": "675",
-        "title": "白い雪のプリンセスは",
-        "type": "SD",
-        "ds": [
-            6.0,
-            8.0,
-            11.7,
-            12.9
-        ],
-        "level": [
-            "6",
-            "8",
-            "11+",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    239,
-                    5,
-                    9,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    329,
-                    12,
-                    15,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    501,
-                    60,
-                    28,
-                    16
-                ],
-                "charter": "LabiLabi"
-            },
-            {
-                "notes": [
-                    504,
-                    39,
-                    137,
-                    41
-                ],
-                "charter": "玉子豆腐"
-            }
-        ],
-        "basic_info": {
-            "title": "白い雪のプリンセスは",
-            "artist": "のぼる↑",
-            "genre": "niconico & VOCALOID",
-            "bpm": "200",
-            "release_date": "",
-            "from": "maimai MiLK",
-            "is_new": false
-        }
-    },
-    {
         "id": "676",
         "title": "好き！雪！本気マジック",
         "type": "SD",
@@ -42239,146 +40601,6 @@
             "artist": "Mitchie M",
             "genre": "niconico & VOCALOID",
             "bpm": "167",
-            "release_date": "",
-            "from": "maimai MiLK",
-            "is_new": false
-        }
-    },
-    {
-        "id": "676",
-        "title": "好き！雪！本気マジック",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.3,
-            11.0,
-            12.5
-        ],
-        "level": [
-            "4",
-            "7",
-            "11",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    186,
-                    8,
-                    9,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    349,
-                    21,
-                    21,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    416,
-                    65,
-                    31,
-                    12
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    494,
-                    53,
-                    122,
-                    17
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "好き！雪！本気マジック",
-            "artist": "Mitchie M",
-            "genre": "niconico & VOCALOID",
-            "bpm": "167",
-            "release_date": "",
-            "from": "maimai MiLK",
-            "is_new": false
-        }
-    },
-    {
-        "id": "677",
-        "title": "スターナイトスノウ",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.2,
-            10.5,
-            11.5
-        ],
-        "level": [
-            "5",
-            "7",
-            "10",
-            "11"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    204,
-                    4,
-                    10,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    356,
-                    7,
-                    14,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    404,
-                    54,
-                    12,
-                    5
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    364,
-                    39,
-                    93,
-                    9
-                ],
-                "charter": "小鳥遊さん"
-            }
-        ],
-        "basic_info": {
-            "title": "スターナイトスノウ",
-            "artist": "n-buna × Orangestar",
-            "genre": "niconico & VOCALOID",
-            "bpm": "180",
             "release_date": "",
             "from": "maimai MiLK",
             "is_new": false
@@ -43709,76 +41931,6 @@
             "artist": "ガヴリール（富田美憂），ヴィーネ（大西沙織），サターニャ（大空直美），ラフィエル（花澤香菜）「ガヴリールドロップアウト」",
             "genre": "流行&动漫",
             "bpm": "168",
-            "release_date": "",
-            "from": "maimai MiLK",
-            "is_new": false
-        }
-    },
-    {
-        "id": "698",
-        "title": "fantastic dreamer",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.5,
-            10.2,
-            12.5
-        ],
-        "level": [
-            "5",
-            "7",
-            "10",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    145,
-                    4,
-                    3,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    197,
-                    11,
-                    13,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    257,
-                    37,
-                    31,
-                    15
-                ],
-                "charter": "ミストルティン"
-            },
-            {
-                "notes": [
-                    302,
-                    39,
-                    91,
-                    24
-                ],
-                "charter": "サファ太"
-            }
-        ],
-        "basic_info": {
-            "title": "fantastic dreamer",
-            "artist": "Machico「この素晴らしい世界に祝福を！」",
-            "genre": "流行&动漫",
-            "bpm": "185",
             "release_date": "",
             "from": "maimai MiLK",
             "is_new": false
@@ -46961,146 +45113,6 @@
         }
     },
     {
-        "id": "747",
-        "title": "えれくとりっく・えんじぇぅ",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.0,
-            10.3,
-            11.6
-        ],
-        "level": [
-            "5",
-            "8",
-            "10",
-            "11+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    191,
-                    16,
-                    3,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    261,
-                    51,
-                    7,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    318,
-                    71,
-                    17,
-                    18
-                ],
-                "charter": "サファ太"
-            },
-            {
-                "notes": [
-                    469,
-                    41,
-                    74,
-                    10
-                ],
-                "charter": "LabiLabi"
-            }
-        ],
-        "basic_info": {
-            "title": "えれくとりっく・えんじぇぅ",
-            "artist": "ヤスオ",
-            "genre": "niconico & VOCALOID",
-            "bpm": "150",
-            "release_date": "",
-            "from": "maimai MiLK PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "748",
-        "title": "ミラクルペイント",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.2,
-            10.9,
-            13.2
-        ],
-        "level": [
-            "5",
-            "7",
-            "10+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    189,
-                    19,
-                    14,
-                    9
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    292,
-                    34,
-                    9,
-                    13
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    447,
-                    46,
-                    30,
-                    8
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    494,
-                    64,
-                    98,
-                    15
-                ],
-                "charter": "某S氏"
-            }
-        ],
-        "basic_info": {
-            "title": "ミラクルペイント",
-            "artist": "OSTER project",
-            "genre": "niconico & VOCALOID",
-            "bpm": "215",
-            "release_date": "",
-            "from": "maimai MiLK PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "748",
         "title": "ミラクルペイント",
         "type": "SD",
@@ -47307,76 +45319,6 @@
             "bpm": "200",
             "release_date": "",
             "from": "maimai MiLK PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "751",
-        "title": "ガチャガチャきゅ～と・ふぃぎゅ@メイト",
-        "type": "SD",
-        "ds": [
-            6.0,
-            7.8,
-            11.4,
-            13.2
-        ],
-        "level": [
-            "6",
-            "7+",
-            "11",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    227,
-                    8,
-                    6,
-                    27
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    346,
-                    10,
-                    16,
-                    16
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    394,
-                    58,
-                    36,
-                    30
-                ],
-                "charter": "サファ太"
-            },
-            {
-                "notes": [
-                    433,
-                    35,
-                    112,
-                    110
-                ],
-                "charter": "玉子豆腐"
-            }
-        ],
-        "basic_info": {
-            "title": "ガチャガチャきゅ～と・ふぃぎゅ@メイト",
-            "artist": "MOSAIC.WAV",
-            "genre": "流行&动漫",
-            "bpm": "178",
-            "release_date": "",
-            "from": "maimai FiNALE",
             "is_new": false
         }
     },
@@ -48029,76 +45971,6 @@
             "artist": "sky_delta",
             "genre": "舞萌",
             "bpm": "184",
-            "release_date": "",
-            "from": "maimai MiLK PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "761",
-        "title": "このふざけた素晴らしき世界は、僕の為にある",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.6,
-            10.9,
-            12.8
-        ],
-        "level": [
-            "4",
-            "7+",
-            "10+",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    177,
-                    13,
-                    4,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    292,
-                    30,
-                    16,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    358,
-                    85,
-                    28,
-                    5
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    637,
-                    82,
-                    60,
-                    7
-                ],
-                "charter": "Jack"
-            }
-        ],
-        "basic_info": {
-            "title": "このふざけた素晴らしき世界は、僕の為にある",
-            "artist": "n.k",
-            "genre": "niconico & VOCALOID",
-            "bpm": "152",
             "release_date": "",
             "from": "maimai MiLK PLUS",
             "is_new": false
@@ -50721,76 +48593,6 @@
         }
     },
     {
-        "id": "801",
-        "title": "金の聖夜霜雪に朽ちて",
-        "type": "SD",
-        "ds": [
-            6.0,
-            8.6,
-            11.7,
-            13.4
-        ],
-        "level": [
-            "6",
-            "8+",
-            "11+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    259,
-                    14,
-                    6,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    391,
-                    20,
-                    15,
-                    20
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    495,
-                    77,
-                    26,
-                    2
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    568,
-                    70,
-                    125,
-                    17
-                ],
-                "charter": "サファ太"
-            }
-        ],
-        "basic_info": {
-            "title": "金の聖夜霜雪に朽ちて",
-            "artist": "デッドボールP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "185",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
         "id": "802",
         "title": "不思議の国のクリスマス",
         "type": "SD",
@@ -51007,146 +48809,6 @@
             "artist": "HIRO/曲者P",
             "genre": "niconico & VOCALOID",
             "bpm": "120",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
-        "id": "804",
-        "title": "Magical Sound Shower",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.0,
-            10.9,
-            13.4
-        ],
-        "level": [
-            "5",
-            "8",
-            "10+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    197,
-                    20,
-                    3,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    272,
-                    30,
-                    6,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    304,
-                    48,
-                    32,
-                    39
-                ],
-                "charter": "小鳥遊さん"
-            },
-            {
-                "notes": [
-                    585,
-                    26,
-                    43,
-                    8
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "Magical Sound Shower",
-            "artist": "HIRO/曲者P",
-            "genre": "niconico & VOCALOID",
-            "bpm": "120",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
-        "id": "805",
-        "title": "片想いサンバ",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.3,
-            11.7,
-            13.2
-        ],
-        "level": [
-            "5",
-            "7",
-            "11+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    280,
-                    4,
-                    4,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    316,
-                    34,
-                    4,
-                    26
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    361,
-                    98,
-                    48,
-                    28
-                ],
-                "charter": "ぴちネコ"
-            },
-            {
-                "notes": [
-                    658,
-                    40,
-                    71,
-                    47
-                ],
-                "charter": "小鳥遊さん"
-            }
-        ],
-        "basic_info": {
-            "title": "片想いサンバ",
-            "artist": "オワタP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "150",
             "release_date": "",
             "from": "maimai FiNALE",
             "is_new": false
@@ -51375,76 +49037,6 @@
         }
     },
     {
-        "id": "807",
-        "title": "フキゲンワルツ",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.8,
-            10.4,
-            13.2
-        ],
-        "level": [
-            "5",
-            "7+",
-            "10",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    278,
-                    2,
-                    6,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    283,
-                    19,
-                    10,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    357,
-                    68,
-                    31,
-                    6
-                ],
-                "charter": "玉子豆腐"
-            },
-            {
-                "notes": [
-                    593,
-                    64,
-                    96,
-                    23
-                ],
-                "charter": "小鳥遊さん"
-            }
-        ],
-        "basic_info": {
-            "title": "フキゲンワルツ",
-            "artist": "OSTERproject",
-            "genre": "niconico & VOCALOID",
-            "bpm": "210",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
         "id": "809",
         "title": "結ンデ開イテ羅刹ト骸",
         "type": "SD",
@@ -51591,146 +49183,6 @@
             "artist": "baker",
             "genre": "niconico & VOCALOID",
             "bpm": "160",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
-        "id": "810",
-        "title": "サウンド",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.0,
-            9.5,
-            12.5
-        ],
-        "level": [
-            "5",
-            "7",
-            "9",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    209,
-                    1,
-                    5,
-                    7
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    260,
-                    16,
-                    12,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    320,
-                    57,
-                    14,
-                    1
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    501,
-                    21,
-                    108,
-                    12
-                ],
-                "charter": "Jack"
-            }
-        ],
-        "basic_info": {
-            "title": "サウンド",
-            "artist": "baker",
-            "genre": "niconico & VOCALOID",
-            "bpm": "160",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
-        "id": "811",
-        "title": "右肩の蝶",
-        "type": "SD",
-        "ds": [
-            5.0,
-            7.3,
-            11.4,
-            13.1
-        ],
-        "level": [
-            "5",
-            "7",
-            "11",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    224,
-                    8,
-                    6,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    282,
-                    18,
-                    12,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    312,
-                    72,
-                    52,
-                    13
-                ],
-                "charter": "サファ太"
-            },
-            {
-                "notes": [
-                    545,
-                    66,
-                    130,
-                    16
-                ],
-                "charter": "ものくろっく"
-            }
-        ],
-        "basic_info": {
-            "title": "右肩の蝶",
-            "artist": "のりP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "140",
             "release_date": "",
             "from": "maimai FiNALE",
             "is_new": false
@@ -52783,170 +50235,6 @@
             "artist": "ジータ（CV:金元寿子）、ルリア（CV:東山奈央）、ヴィーラ（CV:今井麻美）、マリー（CV:長谷川明子）",
             "genre": "其他游戏",
             "bpm": "178",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
-        "id": "826",
-        "title": "キミとボクのミライ",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.8,
-            10.5,
-            11.2,
-            12.7
-        ],
-        "level": [
-            "4",
-            "7+",
-            "10",
-            "11",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    132,
-                    7,
-                    5,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    263,
-                    8,
-                    17,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    285,
-                    33,
-                    50,
-                    10
-                ],
-                "charter": "某S氏"
-            },
-            {
-                "notes": [
-                    414,
-                    12,
-                    87,
-                    4
-                ],
-                "charter": "緑風 犬三郎"
-            },
-            {
-                "notes": [
-                    455,
-                    34,
-                    96,
-                    18
-                ],
-                "charter": "Jack"
-            }
-        ],
-        "basic_info": {
-            "title": "キミとボクのミライ",
-            "artist": "ジータ（CV:金元寿子）、ルリア（CV:東山奈央）、ヴィーラ（CV:今井麻美）、マリー（CV:長谷川明子）",
-            "genre": "其他游戏",
-            "bpm": "178",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
-        "id": "827",
-        "title": "Lost Princess",
-        "type": "SD",
-        "ds": [
-            4.0,
-            7.2,
-            10.5,
-            11.3,
-            12.5
-        ],
-        "level": [
-            "4",
-            "7",
-            "10",
-            "11",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    87,
-                    14,
-                    6,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    152,
-                    17,
-                    15,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    247,
-                    16,
-                    40,
-                    11
-                ],
-                "charter": "Jack"
-            },
-            {
-                "notes": [
-                    276,
-                    15,
-                    75,
-                    6
-                ],
-                "charter": "緑風 犬三郎"
-            },
-            {
-                "notes": [
-                    249,
-                    36,
-                    70,
-                    13
-                ],
-                "charter": "某S氏"
-            }
-        ],
-        "basic_info": {
-            "title": "Lost Princess",
-            "artist": "ペコリーヌ（CV：M・A・O）、コッコロ（CV：伊藤美来）、キャル（CV：立花理香）",
-            "genre": "其他游戏",
-            "bpm": "150",
             "release_date": "",
             "from": "maimai FiNALE",
             "is_new": false
@@ -54355,76 +51643,6 @@
         }
     },
     {
-        "id": "847",
-        "title": "カラフル×メロディ",
-        "type": "SD",
-        "ds": [
-            5.0,
-            8.0,
-            11.4,
-            12.6
-        ],
-        "level": [
-            "5",
-            "8",
-            "11",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    161,
-                    8,
-                    7,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    274,
-                    18,
-                    10,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    335,
-                    34,
-                    32,
-                    26
-                ],
-                "charter": "華火職人"
-            },
-            {
-                "notes": [
-                    423,
-                    39,
-                    96,
-                    4
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "カラフル×メロディ",
-            "artist": "ちーむMOER",
-            "genre": "niconico & VOCALOID",
-            "bpm": "185",
-            "release_date": "",
-            "from": "maimai FiNALE",
-            "is_new": false
-        }
-    },
-    {
         "id": "848",
         "title": "魔法少女になるしかねぇ",
         "type": "SD",
@@ -54808,6 +52026,15 @@
             },
             {
                 "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
                     258,
                     20,
                     8,
@@ -54828,7 +52055,7 @@
         "basic_info": {
             "title": "有ME就好",
             "artist": "阿蘭",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "95",
             "release_date": "",
             "from": "未知",
@@ -54869,6 +52096,15 @@
             },
             {
                 "notes": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
                     144,
                     39,
                     17,
@@ -54880,7 +52116,7 @@
         "basic_info": {
             "title": "忽然这一秒",
             "artist": "林依晨",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "128",
             "release_date": "",
             "from": "未知",
@@ -55728,6 +52964,76 @@
         }
     },
     {
+        "id": "1327",
+        "title": "僕は空気が嫁ない",
+        "type": "SD",
+        "ds": [
+            4.0,
+            7.7,
+            10.8,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    144,
+                    10,
+                    4,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    272,
+                    15,
+                    8,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    374,
+                    52,
+                    46,
+                    10
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    581,
+                    19,
+                    135,
+                    35
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "僕は空気が嫁ない",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico & VOCALOID",
+            "bpm": "192",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
         "id": "1736",
         "title": "プリズム△▽リズム",
         "type": "SD",
@@ -56177,6 +53483,154 @@
         }
     },
     {
+        "id": "10077",
+        "title": "怪盗Rのテーマ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.2,
+            10.5,
+            13.2
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    136,
+                    11,
+                    4,
+                    13,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    226,
+                    12,
+                    8,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    281,
+                    65,
+                    46,
+                    9,
+                    40
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    423,
+                    67,
+                    85,
+                    33,
+                    39
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "怪盗Rのテーマ",
+            "artist": "大谷智哉「リズム怪盗R 皇帝ナポレオンの遺産」",
+            "genre": "其他游戏",
+            "bpm": "147",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "10106",
+        "title": "BAD∞END∞NIGHT",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.2,
+            13.5
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    146,
+                    8,
+                    4,
+                    12,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    229,
+                    12,
+                    6,
+                    13,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    262,
+                    45,
+                    33,
+                    9,
+                    72
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    411,
+                    45,
+                    111,
+                    15,
+                    36
+                ],
+                "charter": "メロンポップ"
+            }
+        ],
+        "basic_info": {
+            "title": "BAD∞END∞NIGHT",
+            "artist": "ひとしずくP・やま△",
+            "genre": "niconico & VOCALOID",
+            "bpm": "204",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
         "id": "10117",
         "title": "炎歌 -ほむらうた-",
         "type": "DX",
@@ -56322,80 +53776,6 @@
             "release_date": "",
             "from": "maimai でらっくす PRiSM PLUS",
             "is_new": true
-        }
-    },
-    {
-        "id": "10125",
-        "title": "千本桜",
-        "type": "DX",
-        "ds": [
-            4.0,
-            6.0,
-            9.3,
-            12.5
-        ],
-        "level": [
-            "4",
-            "6",
-            "9",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    141,
-                    0,
-                    2,
-                    17,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    241,
-                    5,
-                    6,
-                    11,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    313,
-                    40,
-                    25,
-                    29,
-                    10
-                ],
-                "charter": "小鳥遊さん"
-            },
-            {
-                "notes": [
-                    528,
-                    32,
-                    70,
-                    25,
-                    11
-                ],
-                "charter": "Jack"
-            }
-        ],
-        "basic_info": {
-            "title": "千本桜",
-            "artist": "黒うさP",
-            "genre": "niconico & VOCALOID",
-            "bpm": "154",
-            "release_date": "",
-            "from": "maimai でらっくす",
-            "is_new": false
         }
     },
     {
@@ -59507,80 +56887,6 @@
         }
     },
     {
-        "id": "10560",
-        "title": "回レ！雪月花",
-        "type": "DX",
-        "ds": [
-            3.0,
-            7.0,
-            10.0,
-            12.5
-        ],
-        "level": [
-            "3",
-            "7",
-            "10",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    99,
-                    2,
-                    2,
-                    11,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    168,
-                    28,
-                    3,
-                    21,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    284,
-                    24,
-                    30,
-                    16,
-                    10
-                ],
-                "charter": "サファ太"
-            },
-            {
-                "notes": [
-                    452,
-                    27,
-                    36,
-                    128,
-                    7
-                ],
-                "charter": "華火職人"
-            }
-        ],
-        "basic_info": {
-            "title": "回レ！雪月花",
-            "artist": "歌組雪月花 夜々(原田ひとみ)/いろり(茅野愛衣)/小紫(小倉唯)「機巧少女は傷つかない」",
-            "genre": "流行&动漫",
-            "bpm": "160",
-            "release_date": "",
-            "from": "maimai でらっくす",
-            "is_new": false
-        }
-    },
-    {
         "id": "10572",
         "title": "Scream out! -maimai SONIC WASHER Edit-",
         "type": "DX",
@@ -60247,20 +57553,20 @@
         }
     },
     {
-        "id": "10668",
-        "title": "ようこそジャパリパークへ",
+        "id": "10674",
+        "title": "Magical Flavor",
         "type": "DX",
         "ds": [
-            4.0,
-            7.0,
-            9.2,
-            11.8
+            3.0,
+            6.0,
+            10.5,
+            13.2
         ],
         "level": [
-            "4",
-            "7",
-            "9",
-            "11+"
+            "3",
+            "6",
+            "10",
+            "13"
         ],
         "cids": [
             1,
@@ -60271,53 +57577,53 @@
         "charts": [
             {
                 "notes": [
-                    110,
-                    1,
-                    3,
-                    14,
-                    1
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    250,
-                    13,
-                    5,
+                    139,
                     9,
-                    7
+                    3,
+                    20,
+                    3
                 ],
                 "charter": "-"
             },
             {
                 "notes": [
-                    299,
-                    17,
-                    15,
-                    17,
-                    12
+                    190,
+                    13,
+                    4,
+                    12,
+                    6
                 ],
-                "charter": "華火職人"
+                "charter": "-"
             },
             {
                 "notes": [
-                    351,
-                    29,
-                    75,
-                    45,
-                    7
+                    364,
+                    39,
+                    10,
+                    14,
+                    19
                 ],
-                "charter": "はっぴー"
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    375,
+                    56,
+                    55,
+                    41,
+                    20
+                ],
+                "charter": "きょむりん"
             }
         ],
         "basic_info": {
-            "title": "ようこそジャパリパークへ",
-            "artist": "どうぶつビスケッツ×PPP「けものフレンズ」",
-            "genre": "流行&动漫",
-            "bpm": "170",
+            "title": "Magical Flavor",
+            "artist": "DECO*27 feat.Tia",
+            "genre": "舞萌",
+            "bpm": "98",
             "release_date": "",
-            "from": "maimai でらっくす",
-            "is_new": false
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
         }
     },
     {
@@ -68913,80 +66219,6 @@
         }
     },
     {
-        "id": "11119",
-        "title": "I'm with you",
-        "type": "DX",
-        "ds": [
-            2.0,
-            6.8,
-            9.6,
-            11.2
-        ],
-        "level": [
-            "2",
-            "6",
-            "9+",
-            "11"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    61,
-                    10,
-                    2,
-                    8,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    145,
-                    15,
-                    9,
-                    18,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    194,
-                    32,
-                    30,
-                    28,
-                    22
-                ],
-                "charter": "華火職人"
-            },
-            {
-                "notes": [
-                    233,
-                    26,
-                    50,
-                    44,
-                    22
-                ],
-                "charter": "シチミヘルツ"
-            }
-        ],
-        "basic_info": {
-            "title": "I'm with you",
-            "artist": "ラティナ(CV:高尾奏音)",
-            "genre": "流行&动漫",
-            "bpm": "181",
-            "release_date": "",
-            "from": "maimai でらっくす PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "11120",
         "title": "オトモダチフィルム",
         "type": "DX",
@@ -71281,80 +68513,6 @@
         }
     },
     {
-        "id": "11150",
-        "title": "ウマイネームイズうまみちゃん",
-        "type": "DX",
-        "ds": [
-            2.0,
-            6.5,
-            8.8,
-            12.0
-        ],
-        "level": [
-            "2",
-            "6",
-            "8+",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    60,
-                    11,
-                    3,
-                    12,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    200,
-                    15,
-                    13,
-                    9,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    241,
-                    47,
-                    36,
-                    21,
-                    16
-                ],
-                "charter": "ロシェ@ペンギン"
-            },
-            {
-                "notes": [
-                    380,
-                    14,
-                    109,
-                    22,
-                    19
-                ],
-                "charter": "ロシェ@ペンギン"
-            }
-        ],
-        "basic_info": {
-            "title": "ウマイネームイズうまみちゃん",
-            "artist": "UMAINA",
-            "genre": "流行&动漫",
-            "bpm": "184",
-            "release_date": "",
-            "from": "maimai でらっくす PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "11151",
         "title": "馬と鹿",
         "type": "DX",
@@ -71819,15 +68977,18 @@
             5.0,
             7.8,
             11.0,
-            13.4
+            13.4,
+            14.1
         ],
         "level": [
             "5",
             "7+",
             "11",
-            "13"
+            "13",
+            "14"
         ],
         "cids": [
+            1,
             1,
             1,
             1,
@@ -71873,6 +69034,16 @@
                     46
                 ],
                 "charter": "華火職人"
+            },
+            {
+                "notes": [
+                    617,
+                    54,
+                    96,
+                    17,
+                    40
+                ],
+                "charter": "じゃこレモン"
             }
         ],
         "basic_info": {
@@ -73762,80 +70933,6 @@
         }
     },
     {
-        "id": "11183",
-        "title": "お願いマッスル",
-        "type": "DX",
-        "ds": [
-            3.0,
-            6.0,
-            8.9,
-            12.7
-        ],
-        "level": [
-            "3",
-            "6",
-            "8+",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    95,
-                    3,
-                    2,
-                    6,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    150,
-                    18,
-                    2,
-                    13,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    234,
-                    13,
-                    19,
-                    76,
-                    20
-                ],
-                "charter": "シチミヘルツ"
-            },
-            {
-                "notes": [
-                    289,
-                    47,
-                    96,
-                    28,
-                    50
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "お願いマッスル",
-            "artist": "紗倉ひびき（CV:ファイルーズあい）＆街雄鳴造（CV:石川界人）",
-            "genre": "流行&动漫",
-            "bpm": "132",
-            "release_date": "",
-            "from": "maimai でらっくす Splash",
-            "is_new": false
-        }
-    },
-    {
         "id": "11184",
         "title": "Virtual to LIVE",
         "type": "DX",
@@ -74803,7 +71900,7 @@
         "basic_info": {
             "title": "テオ(leo need)",
             "artist": "Leo/need 「プロジェクトセカイ カラフルステージ! feat. 初音ミク」",
-            "genre": "UNRELEASEDTRACKS",
+            "genre": "未实装",
             "bpm": "185",
             "release_date": "",
             "from": "未知",
@@ -76816,15 +73913,18 @@
             4.0,
             7.7,
             10.0,
-            13.0
+            13.0,
+            13.7
         ],
         "level": [
             "4",
             "7+",
             "10",
-            "13"
+            "13",
+            "13+"
         ],
         "cids": [
+            1,
             1,
             1,
             1,
@@ -76870,6 +73970,16 @@
                     56
                 ],
                 "charter": "華火職人"
+            },
+            {
+                "notes": [
+                    506,
+                    68,
+                    70,
+                    69,
+                    74
+                ],
+                "charter": "アマリリス"
             }
         ],
         "basic_info": {
@@ -79114,80 +76224,6 @@
             "artist": "ビックカメラ",
             "genre": "流行&动漫",
             "bpm": "160",
-            "release_date": "",
-            "from": "maimai でらっくす Splash PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "11258",
-        "title": "電話革命ナイセン",
-        "type": "DX",
-        "ds": [
-            2.0,
-            6.5,
-            8.2,
-            12.5
-        ],
-        "level": [
-            "2",
-            "6",
-            "8",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    116,
-                    4,
-                    3,
-                    14,
-                    3
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    209,
-                    34,
-                    16,
-                    23,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    258,
-                    37,
-                    37,
-                    26,
-                    12
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    354,
-                    27,
-                    121,
-                    33,
-                    16
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "電話革命ナイセン",
-            "artist": "ナイセン - momoco-",
-            "genre": "niconico & VOCALOID",
-            "bpm": "145",
             "release_date": "",
             "from": "maimai でらっくす Splash PLUS",
             "is_new": false
@@ -86228,80 +83264,6 @@
         }
     },
     {
-        "id": "11356",
-        "title": "なだめスかし Negotiation（TVsize）",
-        "type": "DX",
-        "ds": [
-            3.0,
-            6.8,
-            8.2,
-            12.5
-        ],
-        "level": [
-            "3",
-            "6",
-            "8",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    72,
-                    11,
-                    3,
-                    8,
-                    1
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    145,
-                    16,
-                    8,
-                    15,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    221,
-                    49,
-                    15,
-                    19,
-                    8
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    393,
-                    30,
-                    56,
-                    27,
-                    16
-                ],
-                "charter": "アマリリス"
-            }
-        ],
-        "basic_info": {
-            "title": "なだめスかし Negotiation（TVsize）",
-            "artist": "鹿乃と宇崎ちゃん",
-            "genre": "流行&动漫",
-            "bpm": "150",
-            "release_date": "",
-            "from": "maimai でらっくす UNiVERSE",
-            "is_new": false
-        }
-    },
-    {
         "id": "11358",
         "title": "インドア系ならトラックメイカー",
         "type": "DX",
@@ -86827,15 +83789,18 @@
             4.0,
             7.5,
             10.7,
-            13.0
+            13.0,
+            13.7
         ],
         "level": [
             "4",
             "7",
             "10+",
-            "13"
+            "13",
+            "13+"
         ],
         "cids": [
+            1,
             1,
             1,
             1,
@@ -86881,6 +83846,16 @@
                     16
                 ],
                 "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    676,
+                    47,
+                    184,
+                    14,
+                    35
+                ],
+                "charter": "Jack"
             }
         ],
         "basic_info": {
@@ -95017,81 +91992,7 @@
         "basic_info": {
             "title": "残響散歌",
             "artist": "Aimer",
-            "genre": "POPSアニメ",
-            "bpm": 171,
-            "release_date": "",
-            "from": "maimai でらっくす FESTiVAL",
-            "is_new": false
-        }
-    },
-    {
-        "id": "11484",
-        "title": "残響散歌",
-        "type": "DX",
-        "ds": [
-            3.0,
-            6.5,
-            9.7,
-            13.4
-        ],
-        "level": [
-            "3",
-            "6",
-            "9+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    117,
-                    12,
-                    4,
-                    22,
-                    7
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    295,
-                    17,
-                    7,
-                    46,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    370,
-                    57,
-                    50,
-                    32,
-                    38
-                ],
-                "charter": "翠楼屋"
-            },
-            {
-                "notes": [
-                    657,
-                    44,
-                    199,
-                    22,
-                    17
-                ],
-                "charter": "Jack"
-            }
-        ],
-        "basic_info": {
-            "title": "残響散歌",
-            "artist": "Aimer",
-            "genre": "POPSアニメ",
+            "genre": "流行&动漫",
             "bpm": 171,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
@@ -96079,81 +92980,7 @@
         "basic_info": {
             "title": "アマカミサマ",
             "artist": "名取さな",
-            "genre": "POPSアニメ",
-            "bpm": 174,
-            "release_date": "",
-            "from": "maimai でらっくす FESTiVAL",
-            "is_new": false
-        }
-    },
-    {
-        "id": "11497",
-        "title": "アマカミサマ",
-        "type": "DX",
-        "ds": [
-            3.0,
-            6.8,
-            9.5,
-            12.7
-        ],
-        "level": [
-            "3",
-            "6",
-            "9",
-            "12+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    118,
-                    11,
-                    3,
-                    8,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    252,
-                    31,
-                    11,
-                    26,
-                    6
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    345,
-                    42,
-                    26,
-                    6,
-                    10
-                ],
-                "charter": "アマリリス"
-            },
-            {
-                "notes": [
-                    390,
-                    70,
-                    79,
-                    145,
-                    17
-                ],
-                "charter": "アマリリスせんせえ"
-            }
-        ],
-        "basic_info": {
-            "title": "アマカミサマ",
-            "artist": "名取さな",
-            "genre": "POPSアニメ",
+            "genre": "流行&动漫",
             "bpm": 174,
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
@@ -96377,80 +93204,6 @@
             "artist": "子牛 feat.音街ウナ",
             "genre": "niconico & VOCALOID",
             "bpm": "185",
-            "release_date": "",
-            "from": "maimai でらっくす FESTiVAL",
-            "is_new": false
-        }
-    },
-    {
-        "id": "11501",
-        "title": "Dive into the ZONe",
-        "type": "DX",
-        "ds": [
-            3.0,
-            7.0,
-            9.8,
-            13.3
-        ],
-        "level": [
-            "3",
-            "7",
-            "9+",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    115,
-                    19,
-                    4,
-                    7,
-                    8
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    281,
-                    13,
-                    6,
-                    29,
-                    20
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    367,
-                    39,
-                    18,
-                    14,
-                    55
-                ],
-                "charter": "翠楼屋"
-            },
-            {
-                "notes": [
-                    542,
-                    54,
-                    88,
-                    17,
-                    50
-                ],
-                "charter": "小鳥遊さん"
-            }
-        ],
-        "basic_info": {
-            "title": "Dive into the ZONe",
-            "artist": "ぞん子",
-            "genre": "流行&动漫",
-            "bpm": "160",
             "release_date": "",
             "from": "maimai でらっくす FESTiVAL",
             "is_new": false
@@ -105920,93 +102673,6 @@
         }
     },
     {
-        "id": "11634",
-        "title": "青春コンプレックス",
-        "type": "DX",
-        "ds": [
-            3.0,
-            7.0,
-            10.0,
-            11.8,
-            13.8
-        ],
-        "level": [
-            "3",
-            "7",
-            "10",
-            "11+",
-            "13+"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    143,
-                    13,
-                    6,
-                    13,
-                    7
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    278,
-                    12,
-                    14,
-                    16,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    414,
-                    76,
-                    84,
-                    25,
-                    27
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    532,
-                    49,
-                    121,
-                    23,
-                    98
-                ],
-                "charter": "緑風 犬三郎"
-            },
-            {
-                "notes": [
-                    708,
-                    45,
-                    119,
-                    35,
-                    54
-                ],
-                "charter": "鳩ホルダー"
-            }
-        ],
-        "basic_info": {
-            "title": "青春コンプレックス",
-            "artist": "結束バンド",
-            "genre": "流行&动漫",
-            "bpm": "190",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
-    {
         "id": "11635",
         "title": "アンダーキッズ",
         "type": "DX",
@@ -106680,80 +103346,6 @@
             "artist": "REDALiCE & cosMo＠暴走P",
             "genre": "其他游戏",
             "bpm": "203",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
-    {
-        "id": "11644",
-        "title": "story",
-        "type": "DX",
-        "ds": [
-            3.0,
-            7.7,
-            10.8,
-            12.2
-        ],
-        "level": [
-            "3",
-            "7+",
-            "10+",
-            "12"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    73,
-                    12,
-                    2,
-                    7,
-                    1
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    174,
-                    20,
-                    6,
-                    14,
-                    4
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    258,
-                    34,
-                    44,
-                    9,
-                    27
-                ],
-                "charter": "鳩ホルダー"
-            },
-            {
-                "notes": [
-                    352,
-                    19,
-                    66,
-                    30,
-                    24
-                ],
-                "charter": "PG-NAKAGAWA"
-            }
-        ],
-        "basic_info": {
-            "title": "story",
-            "artist": "前島麻由",
-            "genre": "流行&动漫",
-            "bpm": "220",
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
@@ -111487,154 +108079,6 @@
         }
     },
     {
-        "id": "11708",
-        "title": "カーニバルハッピー",
-        "type": "DX",
-        "ds": [
-            4.0,
-            7.8,
-            11.5,
-            13.5
-        ],
-        "level": [
-            "4",
-            "7+",
-            "11",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    182,
-                    12,
-                    7,
-                    5,
-                    14
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    305,
-                    10,
-                    15,
-                    31,
-                    10
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    595,
-                    88,
-                    28,
-                    13,
-                    26
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    697,
-                    79,
-                    125,
-                    122,
-                    26
-                ],
-                "charter": "Jack"
-            }
-        ],
-        "basic_info": {
-            "title": "カーニバルハッピー",
-            "artist": "かいりきベア",
-            "genre": "niconico & VOCALOID",
-            "bpm": "208",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES PLUS",
-            "is_new": false
-        }
-    },
-    {
-        "id": "11709",
-        "title": "つづみぐさ",
-        "type": "DX",
-        "ds": [
-            3.0,
-            7.5,
-            10.0,
-            13.3
-        ],
-        "level": [
-            "3",
-            "7",
-            "10",
-            "13"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    103,
-                    16,
-                    7,
-                    21,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    240,
-                    24,
-                    9,
-                    28,
-                    2
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    318,
-                    82,
-                    37,
-                    28,
-                    15
-                ],
-                "charter": "サファ太"
-            },
-            {
-                "notes": [
-                    487,
-                    61,
-                    126,
-                    90,
-                    17
-                ],
-                "charter": "はっぴー"
-            }
-        ],
-        "basic_info": {
-            "title": "つづみぐさ",
-            "artist": "いよわ",
-            "genre": "niconico & VOCALOID",
-            "bpm": "170",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES PLUS",
-            "is_new": false
-        }
-    },
-    {
         "id": "11709",
         "title": "つづみぐさ",
         "type": "DX",
@@ -114885,154 +111329,6 @@
             "artist": "Yooh",
             "genre": "音击&中二节奏",
             "bpm": "163",
-            "release_date": "",
-            "from": "maimai でらっくす PRiSM",
-            "is_new": true
-        }
-    },
-    {
-        "id": "11754",
-        "title": "Elemental Ethnic",
-        "type": "DX",
-        "ds": [
-            6.0,
-            8.2,
-            12.7,
-            14.0
-        ],
-        "level": [
-            "6",
-            "8",
-            "12+",
-            "14"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    262,
-                    8,
-                    4,
-                    20,
-                    12
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    328,
-                    22,
-                    5,
-                    30,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    557,
-                    37,
-                    46,
-                    28,
-                    33
-                ],
-                "charter": "Luxizhel"
-            },
-            {
-                "notes": [
-                    836,
-                    64,
-                    89,
-                    23,
-                    70
-                ],
-                "charter": "サファ太 & 鳩ホルダー"
-            }
-        ],
-        "basic_info": {
-            "title": "Elemental Ethnic",
-            "artist": "Yooh",
-            "genre": "音击&中二节奏",
-            "bpm": "163",
-            "release_date": "",
-            "from": "maimai でらっくす PRiSM",
-            "is_new": true
-        }
-    },
-    {
-        "id": "11755",
-        "title": "美夜月鏡",
-        "type": "DX",
-        "ds": [
-            5.0,
-            7.9,
-            12.2,
-            14.2
-        ],
-        "level": [
-            "5",
-            "7+",
-            "12",
-            "14"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    207,
-                    8,
-                    11,
-                    9,
-                    5
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    264,
-                    31,
-                    14,
-                    13,
-                    9
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    412,
-                    92,
-                    42,
-                    11,
-                    8
-                ],
-                "charter": "はっぴー"
-            },
-            {
-                "notes": [
-                    676,
-                    102,
-                    82,
-                    116,
-                    35
-                ],
-                "charter": "ロシェ@ペンギン"
-            }
-        ],
-        "basic_info": {
-            "title": "美夜月鏡",
-            "artist": "かゆき",
-            "genre": "音击&中二节奏",
-            "bpm": "164",
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
             "is_new": true
@@ -124292,12 +120588,571 @@
             1,
             1
         ],
-        "charts": [],
+        "charts": [
+            {
+                "notes": [
+                    258,
+                    14,
+                    6,
+                    13,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    264,
+                    25,
+                    12,
+                    30,
+                    14
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    62,
+                    53,
+                    15,
+                    69
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    498,
+                    81,
+                    98,
+                    96,
+                    112
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
         "basic_info": {
             "title": "殿ッ！？ご乱心！？",
             "artist": "Shu feat. 天羽しろっぷ",
             "genre": "舞萌",
             "bpm": "200",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11883",
+        "title": "廃墟にいますキャンペーン",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.0,
+            10.8,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    235,
+                    18,
+                    3,
+                    8,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    326,
+                    19,
+                    8,
+                    46,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    415,
+                    51,
+                    52,
+                    35,
+                    30
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    606,
+                    53,
+                    153,
+                    34,
+                    33
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "廃墟にいますキャンペーン",
+            "artist": "吉田夜世 feat.ちっく。",
+            "genre": "舞萌",
+            "bpm": "215",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11884",
+        "title": "Customized Justice",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            13.0,
+            14.8
+        ],
+        "level": [
+            "6",
+            "8+",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    266,
+                    18,
+                    6,
+                    11,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    352,
+                    13,
+                    16,
+                    32,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    571,
+                    52,
+                    33,
+                    22,
+                    25
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    758,
+                    93,
+                    62,
+                    71,
+                    92
+                ],
+                "charter": "サファ太 vs じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "Customized Justice",
+            "artist": "Kobaryo",
+            "genre": "舞萌",
+            "bpm": "292",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11885",
+        "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+        "type": "DX",
+        "ds": [
+            6.0,
+            9.0,
+            13.2,
+            14.8
+        ],
+        "level": [
+            "6",
+            "9",
+            "13",
+            "14+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    16,
+                    10,
+                    6,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    12,
+                    10,
+                    12,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    655,
+                    70,
+                    22,
+                    34,
+                    27
+                ],
+                "charter": "ロシェ@ペンギン"
+            },
+            {
+                "notes": [
+                    823,
+                    72,
+                    37,
+                    110,
+                    150
+                ],
+                "charter": "Safari"
+            }
+        ],
+        "basic_info": {
+            "title": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+            "artist": "かめりあ",
+            "genre": "舞萌",
+            "bpm": "132",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11886",
+        "title": "真空都市",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            10.8,
+            13.4
+        ],
+        "level": [
+            "4",
+            "7+",
+            "10+",
+            "13"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    223,
+                    12,
+                    5,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    335,
+                    16,
+                    11,
+                    48,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    392,
+                    77,
+                    35,
+                    36,
+                    14
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    592,
+                    27,
+                    66,
+                    38,
+                    29
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "真空都市",
+            "artist": "ナナツカゼ",
+            "genre": "舞萌",
+            "bpm": "185",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11887",
+        "title": "Eternal Return",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    197,
+                    17,
+                    4,
+                    6,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    289,
+                    16,
+                    12,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    363,
+                    103,
+                    43,
+                    44,
+                    8
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    624,
+                    56,
+                    112,
+                    77,
+                    28
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "Eternal Return",
+            "artist": "Tatsunoshin & Aira Arere",
+            "genre": "舞萌",
+            "bpm": "180",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11888",
+        "title": "ぱぱぱらビーチ",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.7,
+            13.6
+        ],
+        "level": [
+            "4",
+            "7",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    205,
+                    10,
+                    4,
+                    11,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    311,
+                    14,
+                    8,
+                    11,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    394,
+                    37,
+                    62,
+                    11,
+                    49
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    626,
+                    21,
+                    87,
+                    41,
+                    56
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "ぱぱぱらビーチ",
+            "artist": "ぱぱぱらビーチ",
+            "genre": "舞萌",
+            "bpm": "160",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11889",
+        "title": "Get U ♭ack",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.7,
+            12.9,
+            14.5
+        ],
+        "level": [
+            "5",
+            "8+",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    198,
+                    13,
+                    8,
+                    16,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    339,
+                    11,
+                    6,
+                    30,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    402,
+                    60,
+                    56,
+                    15,
+                    55
+                ],
+                "charter": "きょむりん"
+            },
+            {
+                "notes": [
+                    693,
+                    74,
+                    83,
+                    62,
+                    87
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "Get U ♭ack",
+            "artist": "Ryo Fukuda",
+            "genre": "舞萌",
+            "bpm": "205",
             "release_date": "",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true
@@ -124446,6 +121301,80 @@
             "artist": "Sampling Masters MEGA",
             "genre": "音击&中二节奏",
             "bpm": "220",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11901",
+        "title": "ラストピースに祝福と栄光を",
+        "type": "DX",
+        "ds": [
+            7.0,
+            9.0,
+            12.9,
+            14.6
+        ],
+        "level": [
+            "7",
+            "9",
+            "12+",
+            "14+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    312,
+                    8,
+                    6,
+                    28,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    426,
+                    25,
+                    13,
+                    40,
+                    20
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    539,
+                    80,
+                    53,
+                    55,
+                    44
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    960,
+                    43,
+                    118,
+                    179,
+                    99
+                ],
+                "charter": "せめんともり"
+            }
+        ],
+        "basic_info": {
+            "title": "ラストピースに祝福と栄光を",
+            "artist": "cosMo＠暴走P",
+            "genre": "音击&中二节奏",
+            "bpm": "280",
             "release_date": "",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true
@@ -125379,6 +122308,1264 @@
         }
     },
     {
+        "id": "11919",
+        "title": "エンジェル ドリーム",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.8,
+            10.0,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7+",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    18,
+                    4,
+                    18,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    309,
+                    19,
+                    12,
+                    7,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    407,
+                    44,
+                    48,
+                    21,
+                    19
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    592,
+                    56,
+                    101,
+                    24,
+                    61
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "エンジェル ドリーム",
+            "artist": "「太鼓の達人」より",
+            "genre": "其他游戏",
+            "bpm": "180",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11920",
+        "title": "Hurtling Boys",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.8,
+            14.5
+        ],
+        "level": [
+            "5",
+            "8",
+            "12+",
+            "14"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    201,
+                    9,
+                    4,
+                    10,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    314,
+                    12,
+                    6,
+                    24,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    376,
+                    92,
+                    79,
+                    3,
+                    59
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    694,
+                    76,
+                    92,
+                    38,
+                    31
+                ],
+                "charter": "鳩ホルダー"
+            }
+        ],
+        "basic_info": {
+            "title": "Hurtling Boys",
+            "artist": "さだきち イシカダス「太鼓の達人」より",
+            "genre": "其他游戏",
+            "bpm": "195",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11921",
+        "title": "しゅ～しん？変身☆ハカイシンzzZ",
+        "type": "DX",
+        "ds": [
+            4.0,
+            8.0,
+            10.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "8",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    14,
+                    4,
+                    16,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    305,
+                    26,
+                    12,
+                    18,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    366,
+                    87,
+                    46,
+                    38,
+                    71
+                ],
+                "charter": "アマリリス"
+            },
+            {
+                "notes": [
+                    524,
+                    56,
+                    92,
+                    105,
+                    126
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "しゅ～しん？変身☆ハカイシンzzZ",
+            "artist": "YOFUKASHi Sound Team feat.編井うも",
+            "genre": "niconico & VOCALOID",
+            "bpm": "180",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11922",
+        "title": "命テステス",
+        "type": "DX",
+        "ds": [
+            3.0,
+            8.0,
+            11.2,
+            13.6
+        ],
+        "level": [
+            "3",
+            "8",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    138,
+                    13,
+                    4,
+                    12,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    284,
+                    10,
+                    12,
+                    16,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    242,
+                    89,
+                    46,
+                    19,
+                    17
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    289,
+                    33,
+                    108,
+                    71,
+                    8
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "命テステス",
+            "artist": "ぱりぱりさらうどん",
+            "genre": "niconico & VOCALOID",
+            "bpm": "240",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11923",
+        "title": "拝啓、最高の思い出たち",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.0,
+            9.2,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "9",
+            "13"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    137,
+                    11,
+                    6,
+                    12,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    195,
+                    10,
+                    6,
+                    26,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    278,
+                    46,
+                    16,
+                    18,
+                    19
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    528,
+                    48,
+                    75,
+                    38,
+                    28
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "拝啓、最高の思い出たち",
+            "artist": "ヤレギノ",
+            "genre": "niconico & VOCALOID",
+            "bpm": "124",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11924",
+        "title": "おべんきょうたいむ",
+        "type": "DX",
+        "ds": [
+            5.0,
+            7.8,
+            12.4,
+            14.1
+        ],
+        "level": [
+            "5",
+            "7+",
+            "12",
+            "14"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    211,
+                    13,
+                    7,
+                    13,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    312,
+                    16,
+                    6,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    410,
+                    103,
+                    56,
+                    19,
+                    65
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    626,
+                    96,
+                    127,
+                    66,
+                    91
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "おべんきょうたいむ",
+            "artist": "litmus*",
+            "genre": "niconico & VOCALOID",
+            "bpm": "165",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11925",
+        "title": "るろうらんる",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.8,
+            14.3
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "14"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    169,
+                    13,
+                    4,
+                    7,
+                    9
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    251,
+                    8,
+                    7,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    476,
+                    49,
+                    35,
+                    16,
+                    17
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    699,
+                    114,
+                    60,
+                    45,
+                    30
+                ],
+                "charter": "るしえる"
+            }
+        ],
+        "basic_info": {
+            "title": "るろうらんる",
+            "artist": "ちから",
+            "genre": "niconico & VOCALOID",
+            "bpm": "156",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11926",
+        "title": "はじまりの未来",
+        "type": "DX",
+        "ds": [
+            3.0,
+            6.5,
+            10.2,
+            13.0
+        ],
+        "level": [
+            "3",
+            "6",
+            "10",
+            "13"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    102,
+                    17,
+                    5,
+                    7,
+                    3
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    224,
+                    18,
+                    8,
+                    26,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    39,
+                    27,
+                    8,
+                    27
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    335,
+                    50,
+                    62,
+                    121,
+                    55
+                ],
+                "charter": "ぴちネコ"
+            }
+        ],
+        "basic_info": {
+            "title": "はじまりの未来",
+            "artist": "40mP × sasakure.UK / 初音ミク「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": "156",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11927",
+        "title": "Worlders",
+        "type": "DX",
+        "ds": [
+            2.0,
+            6.5,
+            9.8,
+            12.8
+        ],
+        "level": [
+            "2",
+            "6",
+            "9+",
+            "12+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    106,
+                    9,
+                    4,
+                    17,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    181,
+                    16,
+                    6,
+                    32,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    285,
+                    34,
+                    35,
+                    5,
+                    25
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    382,
+                    17,
+                    74,
+                    3,
+                    56
+                ],
+                "charter": "カマボコ君"
+            }
+        ],
+        "basic_info": {
+            "title": "Worlders",
+            "artist": "じん / バーチャル・シンガー、Leo/need、MORE MORE JUMP！、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、25時、ナイトコードで。「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」",
+            "genre": "niconico & VOCALOID",
+            "bpm": "137",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11929",
+        "title": "ヒアソビ",
+        "type": "DX",
+        "ds": [
+            3.0,
+            7.5,
+            10.5,
+            13.7
+        ],
+        "level": [
+            "3",
+            "7",
+            "10",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    176,
+                    10,
+                    5,
+                    23,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    273,
+                    14,
+                    8,
+                    24,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    332,
+                    101,
+                    35,
+                    26,
+                    25
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    605,
+                    85,
+                    99,
+                    29,
+                    106
+                ],
+                "charter": "Jack"
+            }
+        ],
+        "basic_info": {
+            "title": "ヒアソビ",
+            "artist": "かめりあ",
+            "genre": "niconico & VOCALOID",
+            "bpm": "134",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11930",
+        "title": "電光刹歌",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    174,
+                    15,
+                    10,
+                    6,
+                    2
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    317,
+                    19,
+                    8,
+                    12,
+                    5
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    451,
+                    48,
+                    26,
+                    35,
+                    47
+                ],
+                "charter": "Jack"
+            },
+            {
+                "notes": [
+                    602,
+                    16,
+                    132,
+                    25,
+                    53
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "電光刹歌",
+            "artist": "かめりあ",
+            "genre": "niconico & VOCALOID",
+            "bpm": "207",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11931",
+        "title": "ウィーアーピコピコハンマーズ!!!!",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            10.8,
+            13.9
+        ],
+        "level": [
+            "5",
+            "8",
+            "10+",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    231,
+                    14,
+                    6,
+                    8,
+                    12
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    368,
+                    21,
+                    4,
+                    25,
+                    11
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    444,
+                    34,
+                    24,
+                    34,
+                    44
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    692,
+                    76,
+                    119,
+                    22,
+                    129
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "ウィーアーピコピコハンマーズ!!!!",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico & VOCALOID",
+            "bpm": "202",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11932",
+        "title": "ジェットブラック",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.5,
+            10.2,
+            13.2
+        ],
+        "level": [
+            "4",
+            "7",
+            "10",
+            "13"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    180,
+                    12,
+                    10,
+                    6,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    323,
+                    18,
+                    6,
+                    26,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    417,
+                    56,
+                    40,
+                    21,
+                    7
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    548,
+                    65,
+                    113,
+                    30,
+                    52
+                ],
+                "charter": "じゃこレモン"
+            }
+        ],
+        "basic_info": {
+            "title": "ジェットブラック",
+            "artist": "雄之助",
+            "genre": "niconico & VOCALOID",
+            "bpm": "170",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11933",
+        "title": "トレジャーガーデン",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.7,
+            11.7,
+            13.8
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11+",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    237,
+                    18,
+                    7,
+                    13,
+                    6
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    373,
+                    29,
+                    8,
+                    26,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    434,
+                    52,
+                    42,
+                    30,
+                    34
+                ],
+                "charter": "Luxizhel"
+            },
+            {
+                "notes": [
+                    697,
+                    80,
+                    113,
+                    53,
+                    108
+                ],
+                "charter": "アマリリス"
+            }
+        ],
+        "basic_info": {
+            "title": "トレジャーガーデン",
+            "artist": "Ponchi♪",
+            "genre": "niconico & VOCALOID",
+            "bpm": "268",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11934",
+        "title": "最愛人生ランナー",
+        "type": "DX",
+        "ds": [
+            4.0,
+            7.8,
+            11.0,
+            13.7
+        ],
+        "level": [
+            "4",
+            "7+",
+            "11",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    216,
+                    22,
+                    5,
+                    8,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    338,
+                    26,
+                    8,
+                    22,
+                    8
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    496,
+                    99,
+                    62,
+                    9,
+                    70
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    735,
+                    61,
+                    151,
+                    44,
+                    63
+                ],
+                "charter": "Luxizhel"
+            }
+        ],
+        "basic_info": {
+            "title": "最愛人生ランナー",
+            "artist": "かいりきベア",
+            "genre": "niconico & VOCALOID",
+            "bpm": "180",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11935",
+        "title": "初音ミクの暴走",
+        "type": "DX",
+        "ds": [
+            6.0,
+            8.8,
+            12.7,
+            13.9
+        ],
+        "level": [
+            "6",
+            "8+",
+            "12+",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    280,
+                    12,
+                    4,
+                    9,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    339,
+                    14,
+                    10,
+                    38,
+                    7
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    678,
+                    39,
+                    52,
+                    20,
+                    27
+                ],
+                "charter": "はっぴー"
+            },
+            {
+                "notes": [
+                    671,
+                    159,
+                    75,
+                    65,
+                    121
+                ],
+                "charter": "サファ太"
+            }
+        ],
+        "basic_info": {
+            "title": "初音ミクの暴走",
+            "artist": "cosMo＠暴走P",
+            "genre": "niconico & VOCALOID",
+            "bpm": "310",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "11936",
+        "title": "Let's ミクササイズ！！",
+        "type": "DX",
+        "ds": [
+            5.0,
+            8.5,
+            12.4,
+            13.8
+        ],
+        "level": [
+            "5",
+            "8",
+            "12",
+            "13+"
+        ],
+        "cids": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    244,
+                    17,
+                    8,
+                    14,
+                    4
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    372,
+                    16,
+                    13,
+                    27,
+                    10
+                ],
+                "charter": "-"
+            },
+            {
+                "notes": [
+                    657,
+                    70,
+                    27,
+                    19,
+                    97
+                ],
+                "charter": "サファ太"
+            },
+            {
+                "notes": [
+                    817,
+                    69,
+                    142,
+                    21,
+                    62
+                ],
+                "charter": "はっぴー"
+            }
+        ],
+        "basic_info": {
+            "title": "Let's ミクササイズ！！",
+            "artist": "cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」",
+            "genre": "niconico & VOCALOID",
+            "bpm": "239",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
         "id": "11951",
         "title": "サイエンス",
         "type": "DX",
@@ -125527,6 +123714,41 @@
             "release_date": "",
             "from": "maimai でらっくす BUDDiES",
             "is_new": false
+        }
+    },
+    {
+        "id": "100022",
+        "title": "[蔵]In Chaos",
+        "type": "DX",
+        "ds": [
+            14.7
+        ],
+        "level": [
+            "14+?"
+        ],
+        "cids": [
+            8385
+        ],
+        "charts": [
+            {
+                "notes": [
+                    824,
+                    0,
+                    110,
+                    0,
+                    9
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[蔵]In Chaos",
+            "artist": "Hiro「Crackin’DJ」",
+            "genre": "宴会場",
+            "bpm": "140",
+            "release_date": "",
+            "from": "maimai でらっくす BUDDiES",
+            "is_new": true
         }
     },
     {
@@ -126145,49 +124367,6 @@
             "release_date": "",
             "from": "maimai でらっくす CiRCLE",
             "is_new": true
-        }
-    },
-    {
-        "id": "100207",
-        "title": "[蛸]時空を超えて久しぶり！",
-        "type": "SD",
-        "ds": [
-            13.6,
-            8.4,
-            11.0,
-            13.8
-        ],
-        "level": [
-            "13?",
-            "8?",
-            "11?",
-            "13+?"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    490,
-                    118,
-                    18,
-                    12
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[蛸]時空を超えて久しぶり！",
-            "artist": "アルル(CV 園崎未恵)「ぷよぷよ」",
-            "genre": "宴会場",
-            "bpm": "145",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
         }
     },
     {
@@ -127930,49 +126109,6 @@
         }
     },
     {
-        "id": "100851",
-        "title": "[宴]犬日和。(はっぴー歌唱Ver)",
-        "type": "SD",
-        "ds": [
-            12.7,
-            8.4,
-            11.0,
-            13.8
-        ],
-        "level": [
-            "12+?",
-            "8?",
-            "11?",
-            "13+?"
-        ],
-        "cids": [
-            1,
-            1,
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    1,
-                    402,
-                    1,
-                    8
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[宴]犬日和。(はっぴー歌唱Ver)",
-            "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
-            "genre": "宴会場",
-            "bpm": "138",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
-    {
         "id": "100998",
         "title": "[宴]Oshama Scramble! (Cranky Remix)",
         "type": "SD",
@@ -128221,28 +126357,15 @@
         "title": "[回]ダブルラリアット",
         "type": "DX",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    557,
-                    20,
-                    55,
-                    0,
-                    21
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     557,
@@ -128304,28 +126427,15 @@
         "title": "[奏]洗脳",
         "type": "DX",
         "ds": [
-            12.7,
             12.7
         ],
         "level": [
-            "12+?",
             "12+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    516,
-                    47,
-                    72,
-                    0,
-                    9
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     653,
@@ -128352,28 +126462,15 @@
         "title": "[奏]チュルリラ・チュルリラ・ダッダッダ！",
         "type": "DX",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    514,
-                    44,
-                    156,
-                    40,
-                    24
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     490,
@@ -128431,32 +126528,89 @@
         }
     },
     {
-        "id": "110647",
-        "title": "[協]エイリアンエイリアン",
+        "id": "110606",
+        "title": "[右]The wheel to the right",
         "type": "DX",
         "ds": [
-            13.0,
-            13.0
+            14.7
         ],
         "level": [
-            "13?",
-            "13?"
+            "14+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
             {
                 "notes": [
-                    378,
-                    165,
-                    56,
-                    55,
-                    86
+                    603,
+                    20,
+                    185,
+                    0,
+                    200
                 ],
                 "charter": "-"
-            },
+            }
+        ],
+        "basic_info": {
+            "title": "[右]The wheel to the right",
+            "artist": "Sampling Masters MEGA",
+            "genre": "宴会場",
+            "bpm": "200",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "110631",
+        "title": "[逆]KING is BACK!!",
+        "type": "DX",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    777,
+                    24,
+                    138,
+                    0,
+                    96
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[逆]KING is BACK!!",
+            "artist": "A-One",
+            "genre": "宴会場",
+            "bpm": "176",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "110647",
+        "title": "[協]エイリアンエイリアン",
+        "type": "DX",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [
+            1
+        ],
+        "charts": [
             {
                 "notes": [
                     344,
@@ -128483,28 +126637,15 @@
         "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
         "type": "DX",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    642,
-                    44,
-                    41,
-                    7,
-                    49
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     112,
@@ -128636,28 +126777,15 @@
         "title": "[奏]マイオドレ！舞舞タイム",
         "type": "DX",
         "ds": [
-            12.7,
             12.7
         ],
         "level": [
-            "12+?",
             "12+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    505,
-                    49,
-                    123,
-                    35,
-                    49
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     482,
@@ -128676,6 +126804,41 @@
             "bpm": "183",
             "release_date": "",
             "from": "maimai でらっくす PRiSM",
+            "is_new": true
+        }
+    },
+    {
+        "id": "111188",
+        "title": "[藍]絶え間なく藍色",
+        "type": "DX",
+        "ds": [
+            13.0
+        ],
+        "level": [
+            "13?"
+        ],
+        "cids": [
+            1
+        ],
+        "charts": [
+            {
+                "notes": [
+                    505,
+                    2,
+                    109,
+                    35,
+                    1
+                ],
+                "charter": "-"
+            }
+        ],
+        "basic_info": {
+            "title": "[藍]絶え間なく藍色",
+            "artist": "獅子志司",
+            "genre": "宴会場",
+            "bpm": "125",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
             "is_new": true
         }
     },
@@ -128754,28 +126917,15 @@
         "title": "[奏]テレキャスタービーボーイ",
         "type": "DX",
         "ds": [
-            12.7,
             12.7
         ],
         "level": [
-            "12+?",
             "12+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    474,
-                    61,
-                    59,
-                    28,
-                    15
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     470,
@@ -128802,28 +126952,15 @@
         "title": "[協]ラグトレイン",
         "type": "DX",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    183,
-                    76,
-                    53,
-                    164,
-                    173
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     172,
@@ -128850,28 +126987,15 @@
         "title": "[奏]アカツキアライヴァル",
         "type": "DX",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    618,
-                    56,
-                    49,
-                    73,
-                    13
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     603,
@@ -128933,28 +127057,15 @@
         "title": "[奏]アンビバレンス",
         "type": "DX",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    558,
-                    52,
-                    206,
-                    51,
-                    17
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     566,
@@ -129051,28 +127162,15 @@
         "title": "[奏]ヒトガタ",
         "type": "DX",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    543,
-                    85,
-                    97,
-                    18,
-                    61
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     519,
@@ -129169,28 +127267,15 @@
         "title": "[覚]スカーレット警察のゲットーパトロール24時",
         "type": "DX",
         "ds": [
-            12.0,
             12.0
         ],
         "level": [
-            "12?",
             "12?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    99,
-                    4,
-                    34,
-                    80,
-                    17
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     83,
@@ -129462,76 +127547,15 @@
         "title": "[協]青春コンプレックス",
         "type": "DX",
         "ds": [
-            14.7,
             14.7
         ],
         "level": [
-            "14+?",
             "14+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    1435,
-                    111,
-                    11,
-                    77,
-                    145
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    1421,
-                    221,
-                    20,
-                    68,
-                    60
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]青春コンプレックス",
-            "artist": "結束バンド",
-            "genre": "宴会場",
-            "bpm": "190",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
-    {
-        "id": "111634",
-        "title": "[協]青春コンプレックス",
-        "type": "DX",
-        "ds": [
-            14.7,
-            14.7
-        ],
-        "level": [
-            "14+?",
-            "14+?"
-        ],
-        "cids": [
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    1435,
-                    111,
-                    11,
-                    77,
-                    145
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     1421,
@@ -129558,28 +127582,15 @@
         "title": "[奏]さくゆいたいそう",
         "type": "DX",
         "ds": [
-            12.7,
             12.7
         ],
         "level": [
-            "12+?",
             "12+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    390,
-                    139,
-                    58,
-                    49,
-                    71
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     405,
@@ -129724,28 +127735,15 @@
         "title": "[匿]匿名M",
         "type": "DX",
         "ds": [
-            13.7,
             13.7
         ],
         "level": [
-            "13+?",
             "13+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    347,
-                    59,
-                    48,
-                    7,
-                    14
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     549,
@@ -129807,28 +127805,15 @@
         "title": "[協]Ultimate taste",
         "type": "DX",
         "ds": [
-            13.7,
             13.7
         ],
         "level": [
-            "13+?",
             "13+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    537,
-                    166,
-                    71,
-                    164,
-                    26
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     640,
@@ -129886,32 +127871,54 @@
         }
     },
     {
-        "id": "111838",
-        "title": "[助]メズマライザー",
+        "id": "111783",
+        "title": "[音]snooze",
         "type": "DX",
         "ds": [
-            13.7,
             13.7
         ],
         "level": [
-            "13+?",
             "13+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
             {
                 "notes": [
-                    652,
-                    124,
-                    151,
-                    132,
-                    21
+                    831,
+                    70,
+                    64,
+                    32,
+                    55
                 ],
                 "charter": "-"
-            },
+            }
+        ],
+        "basic_info": {
+            "title": "[音]snooze",
+            "artist": "wotaku feat.SHIKI",
+            "genre": "宴会場",
+            "bpm": "150",
+            "release_date": "",
+            "from": "maimai でらっくす CiRCLE",
+            "is_new": true
+        }
+    },
+    {
+        "id": "111838",
+        "title": "[助]メズマライザー",
+        "type": "DX",
+        "ds": [
+            13.7
+        ],
+        "level": [
+            "13+?"
+        ],
+        "cids": [
+            1
+        ],
+        "charts": [
             {
                 "notes": [
                     578,
@@ -129973,28 +127980,15 @@
         "title": "[騒]ありきたりな恋の歌",
         "type": "DX",
         "ds": [
-            13.7,
             13.7
         ],
         "level": [
-            "13+?",
             "13+?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    544,
-                    89,
-                    77,
-                    14,
-                    24
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     239,
@@ -130090,73 +128084,15 @@
         "title": "[協]青春コンプレックス",
         "type": "SD",
         "ds": [
-            13.0,
             13.0
         ],
         "level": [
-            "13?",
             "13?"
         ],
         "cids": [
-            1,
             1
         ],
         "charts": [
-            {
-                "notes": [
-                    1197,
-                    105,
-                    4,
-                    130
-                ],
-                "charter": "-"
-            },
-            {
-                "notes": [
-                    978,
-                    219,
-                    26,
-                    71
-                ],
-                "charter": "-"
-            }
-        ],
-        "basic_info": {
-            "title": "[協]青春コンプレックス",
-            "artist": "結束バンド",
-            "genre": "宴会場",
-            "bpm": "190",
-            "release_date": "",
-            "from": "maimai でらっくす BUDDiES",
-            "is_new": false
-        }
-    },
-    {
-        "id": "121634",
-        "title": "[協]青春コンプレックス",
-        "type": "SD",
-        "ds": [
-            13.0,
-            13.0
-        ],
-        "level": [
-            "13?",
-            "13?"
-        ],
-        "cids": [
-            1,
-            1
-        ],
-        "charts": [
-            {
-                "notes": [
-                    1197,
-                    105,
-                    4,
-                    130
-                ],
-                "charter": "-"
-            },
             {
                 "notes": [
                     978,
